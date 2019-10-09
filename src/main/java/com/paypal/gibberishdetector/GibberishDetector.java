@@ -22,6 +22,14 @@ public class GibberishDetector {
 	private final String alphabet;
 	private double[][][] logProbabilityMatrix = null;
 	public double threshold = 0d;
+	public double getThreshold() {
+		return threshold;
+	}
+
+	public void setThreshold(double threshold) {
+		this.threshold = threshold;
+	}
+
 	public double weight = 0d;
 
 	public GibberishDetector(List<String> trainingLinesList, List<String> goodLinesList, List<String> badLinesList, String alphabet) {
@@ -49,9 +57,9 @@ public class GibberishDetector {
 		if (minGood <= maxBad) {
 			throw new AssertionError("cannot create a threshold");
 		}
-		threshold = getThreshold(minGood, maxBad);//0.031424;
+		setThreshold(getThreshold(minGood, maxBad));//0.031424;
 		// Create weighting to allow comparing different result sets
-		weight = 0.50/threshold;
+		weight = 0.50/getThreshold();
 		System.out.printf("Threshold: %f, weight: %f\n", threshold, weight);
 	}
 

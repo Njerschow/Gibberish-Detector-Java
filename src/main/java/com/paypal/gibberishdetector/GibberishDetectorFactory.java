@@ -16,8 +16,17 @@ import java.util.List;
  */
 public class GibberishDetectorFactory {
 
-	private Class<? extends GibberishDetector> type;
+	private static Class<? extends GibberishDetector> type;
 
+	private static GibberishDetector gibberishDetector = null;
+	
+//	public static GibberishDetector getInstance(String trainingFileName, String goodFileName, String badFileName, String alphabetFileName, Class<? extends GibberishDetector> type) {
+//		if(gibberishDetector == null) {
+//			gibberishDetector = createGibberishDetectorFromLocalFile2(trainingFileName, goodFileName, badFileName, alphabetFileName, type);
+//		}
+//		return gibberishDetector;
+//	}
+//	
 	public GibberishDetectorFactory(Class<? extends GibberishDetector> type) {
 		this.type = type;
 	}
@@ -29,7 +38,7 @@ public class GibberishDetectorFactory {
 	 * @param alphabet String that contains all the alphabet of the language plus the white space character. for example: "abcdefghijklmnopqrstuvwxyz "
 	 * @return gibberish detector 
 	 */
-	public GibberishDetector createGibberishDetector(List<String> trainingList, List<String> goodList, List<String> badList, String alphabet) {
+	public static GibberishDetector createGibberishDetector(List<String> trainingList, List<String> goodList, List<String> badList, String alphabet/*, Class<? extends GibberishDetector> type*/) {
 		try {
 			return type.getConstructor(new Class[] {List.class, List.class, List.class, String.class}).newInstance(trainingList, goodList, badList, alphabet);		
 		} 
@@ -47,7 +56,7 @@ public class GibberishDetectorFactory {
 	 * @param alphabet String that contains all the alphabet of the language plus the white space character. for example: "abcdefghijklmnopqrstuvwxyz "
 	 * @return gibberish detector 
 	 */
-	public GibberishDetector createGibberishDetector(File trainingFile, File goodFile, File badFile, String alphabet) {
+	public GibberishDetector createGibberishDetector(File trainingFile, File goodFile, File badFile, String alphabet/*, Class<? extends GibberishDetector> type */) {
 		try {
 			return createGibberishDetector(getLinesFromFile(trainingFile), getLinesFromFile(goodFile), getLinesFromFile(badFile), alphabet);
 		}		
@@ -67,7 +76,7 @@ public class GibberishDetectorFactory {
 	 * @param alphabet String that contains all the alphabet of the language plus the white space character. for example: "abcdefghijklmnopqrstuvwxyz "
 	 * @return gibberish detector
 	 */
-	public GibberishDetector createGibberishDetector(String trainingFilePath, String goodFilePath, String badFilePath, String alphabet) {
+	public GibberishDetector createGibberishDetector(String trainingFilePath, String goodFilePath, String badFilePath, String alphabet/*, Class<? extends GibberishDetector> type*/) {
 		try {
 			return createGibberishDetector(new File(trainingFilePath), new File(goodFilePath), new File(badFilePath), alphabet);
 		}
@@ -87,7 +96,7 @@ public class GibberishDetectorFactory {
 	 * @param alphabet String that contains all the alphabet of the language plus the white space character. for example: "abcdefghijklmnopqrstuvwxyz "
 	 * @return gibberish detector
 	 */
-	public GibberishDetector createGibberishDetectorFromLocalFile(String trainingFileName, String goodFileName, String badFileName, String alphabet) {
+	public GibberishDetector createGibberishDetectorFromLocalFile(String trainingFileName, String goodFileName, String badFileName, String alphabet/*, Class<? extends GibberishDetector> type*/) {
 		try {		
 			return createGibberishDetector(getLinesFromLocalFile(trainingFileName), getLinesFromLocalFile(goodFileName), getLinesFromLocalFile(badFileName), alphabet);
 		}
@@ -107,7 +116,7 @@ public class GibberishDetectorFactory {
 	 * @param alphabetFileName String that contains all the alphabet of the language plus the white space character. for example: "abcdefghijklmnopqrstuvwxyz "
 	 * @return gibberish detector
 	 */
-	public GibberishDetector createGibberishDetectorFromLocalFile2(String trainingFileName, String goodFileName, String badFileName, String alphabetFileName) {
+	public GibberishDetector createGibberishDetectorFromLocalFile2(String trainingFileName, String goodFileName, String badFileName, String alphabetFileName/*, Class<? extends GibberishDetector> type*/) {
 		try {		
 			return createGibberishDetector(getLinesFromLocalFile(trainingFileName), getLinesFromLocalFile(goodFileName), getLinesFromLocalFile(badFileName), getLineFromLocalFile(alphabetFileName));
 		}
