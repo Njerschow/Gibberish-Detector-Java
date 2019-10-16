@@ -43,7 +43,7 @@ public class GibberishNameDetector {
 	static Logger logger = LoggerFactory.getLogger(GibberishNameDetector.class);
 	static GibberishDetector gibberishDetector;
 	public static ResultObject getResult(Double inputThreshold, List<String> names) {	
-		
+
 		ResultObject result = new ResultObject();
 		if(names!= null && names.size()>0 ) {
 			if(gibberishDetector == null) {
@@ -56,14 +56,21 @@ public class GibberishNameDetector {
 						"en-good-names.txt", "badEnglish.txt", "en-alphabet.txt");
 			}
 			double threshold = inputThreshold != null ? inputThreshold.doubleValue() : gibberishDetector.threshold;
-			result.setThreshold(gibberishDetector.getThreshold());
+			double weight = 0.50/threshold;
+			result.setThreshold(threshold);
 			List<NameObject> nameObjects = new ArrayList<NameObject>();
 			for (String line : names) {
-				double goodProb = (gibberishDetector.getProbability(line) - threshold) * gibberishDetector.weight;
 				NameObject name = new NameObject();
-				name.setGibberishScore(goodProb);
+				if(line.isEmpty()) {
+					name.setGibberishScore(threshold);
+					name.setGibberish(true);
+
+				} else {
+					double goodProb = (gibberishDetector.getProbability(line)); //- threshold) * weight;
+					name.setGibberishScore(goodProb);
+					name.setGibberish(gibberishDetector.isGibberish(line, threshold));
+				}
 				name.setName(line);
-				name.setGibberish(gibberishDetector.isGibberish(line));
 				nameObjects.add(name);
 			}
 			result.setNames(nameObjects);

@@ -179,7 +179,9 @@ public class GibberishDetector {
 	public boolean isGibberish(String line) {
 		return !(getAvgTransitionProbability(line, logProbabilityMatrix) > threshold);
 	}
-
+	public boolean isGibberish(String line, double newThreshold) {
+		return !(getAvgTransitionProbability(line, logProbabilityMatrix) > newThreshold);
+	}
 	/*
 	 * Return the transitionProbabilty for tracking and debugging
 	 * @param line is a sentence to check

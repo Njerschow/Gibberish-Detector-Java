@@ -7,6 +7,7 @@ You can find the original here: https://github.com/rrenaud/Gibberish-Detector
 This gibberish detector is not limmited to a certain language, and can be trained on files by the user's choice.
 
 # How to use this library?
+Thi sis a spring boot Rest service
 Use GibberishDetectorFactory in order to create a new instance of the gibberish detector.
 You should supply it the following inputs:
 - A big text file in the language of your choice for training.
