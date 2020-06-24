@@ -1,0 +1,38 @@
+
+		
+
+
+#main_search_keywords{
+	border: 2px solid grey;
+	display: block;
+	float: left;
+	height: 20px;
+$//	margin-top: 5px;
+	width: 550px;
+}	
+
+#main_search_submit{
+	display: block;
+	float: right;
+$//	margin-top: 5px;
+}
+
+#main_search_keywords{
+	border: 2px solid grey;
+	display: block;
+	float: left;
+	height: 20px;
+
+}	
+
+#main_search_submit{
+	display: block;
+	float: right;
+}
+#side_search_keywords {
+width: 217px;
+margin-bottom: 14px;
+float: left;
+margin-right: 6px;
+}
+

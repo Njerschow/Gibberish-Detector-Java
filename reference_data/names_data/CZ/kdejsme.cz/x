@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="cs" xmlns:fb="http://ogp.me/ns/fb#">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+        <meta name="robots" content="index, follow" />
+        <meta name="author" content="Ondřej Malačka, Jan Samek" />
+        <title>Abecední seznamy příjmení a křestních jmen | KdeJsme.cz | Četnost příjmení nebo jména v České republice</title>
+        <meta name="keywords" content="příjmení, jména, křestní jméno, četnost příjmení, četnost jména, okresy příjmení, obce příjmení" />
+        <meta name="description" content="Abecední seznamy příjmení a křestních jmen | Chcete zjistit četnost vašeho příjmení nebo křestního jména v České republice? Je vaše příjmení či křestní jméno unikatní?" />
+        <meta property="og:title" content="Abecední seznamy příjmení a křestních jmen | KdeJsme.cz | Četnost příjmení nebo jména v České republice" />
+        <meta property="og:image" content="https://www.kdejsme.cz/images/kdejsme.jpg" />
+        <meta property="og:description" content="Abecední seznamy příjmení a křestních jmen | Chcete zjistit četnost vašeho příjmení nebo křestního jména v České republice? Je vaše příjmení či křestní jméno unikatní?" />			
+        <link rel="stylesheet" type="text/css" media="all" href="/css/site.css" />
+        <link rel="stylesheet" type="text/css" media="all" href="/css/banner.css" />
+        <link rel="stylesheet" type="text/css" media="all" href="/css/custom.css" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+
+		
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.nette.js"></script>
+        <script type="text/javascript" src="/js/jquery.ajaxform.js"></script>
+        <script type="text/javascript" src="/js/ajax.js"></script>
+        <script type="text/javascript" src="/js/netteForms.js"></script>
+        <script type="text/javascript" src="/js/maphilight.js"></script>
+        <script type="text/javascript" src="/js/functions.js"></script>
+		<script type="text/javascript" src="//connect.facebook.net/cs_CZ/all.js#xfbml=1"></script>
+    </head>
+    <body>
+        <div id="page">
+            <div id="top">
+                <h2>Zadejte příjmení nebo jméno zjistěte jeho četnost</h2>
+                <div id="logo">
+                    <div id="image">
+                        <a href="/"></a>
+                    </div>
+
+                </div>
+
+                <div id="search_form">
+<div id="snippet--hledani">                    <ul id="search" style="position:relative">
+
+                        <li class="search_type  active">
+                            <a hledani="prijmeni" class="ajax" href="/seznam/?hledani=prijmeni&amp;do=hledani">Příjmení</a>
+                        </li>
+                        <li class="search_type  ">
+                            <a hledani="jmeno" class="ajax" href="/seznam/?hledani=jmeno&amp;do=hledani">Jméno</a>
+                        </li>
+                    </ul>
+</div>                    <div id="search_inner">
+<form action="/seznam/?do=form-submit" method="post" id="frm-form">
+                        <input type="text" title="Hledané příjmení" class="text" name="what" id="frmform-what" required="required" data-nette-rules="{op:':filled',msg:&quot;Zadejte \u0159et\u011bzec k vyhled\u00e1n\u00ed.&quot;}" value="" />
+
+                        <input type="submit" class="button" name="search" id="frmform-search" value="Vyhledat" />
+
+<div><input type="hidden" name="_token_" id="frmform-_token_" value="f5htftlh83" /></div>
+</form>
+                    </div>
+                    <ul id="search2" style="position:relative">
+
+                        <li class="search_type2 active2">
+                            <a zobrazit="hustota" class="ajax" href="/seznam/?zobrazit=hustota&amp;do=zobrazit">Hustota</a>
+                        </li>
+                        <li class="search_type2  ">
+                            <a zobrazit="pocet" class="ajax" href="/seznam/?zobrazit=pocet&amp;do=zobrazit">Počet</a>
+                        </li>
+                    </ul>
+
+                </div>
+                <div id="mainMenu">
+                    <ul>
+                        <li><a href="/" >Domů</a></li>
+                        <li><a href="/clanky" >Novinky</a></li>
+                        <li><a href="/seznam/" class="active">Seznamy</a></li>
+                        <li><a href="/o-projektu" >O webu</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div id="left">
+                <div id="left_top">
+        <table class="lstat">
+            <caption>Abecední seznam</caption>
+            <tr>
+                <th>Příjmení</th>
+                <th>Jméno</th>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/A">A</a></td>
+                <td><a href="/seznam/jmeno/A">A</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/B">B</a></td>
+                <td><a href="/seznam/jmeno/B">B</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/C">C</a></td>
+                <td><a href="/seznam/jmeno/C">C</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/D">D</a></td>
+                <td><a href="/seznam/jmeno/D">D</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/E">E</a></td>
+                <td><a href="/seznam/jmeno/E">E</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/F">F</a></td>
+                <td><a href="/seznam/jmeno/F">F</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/G">G</a></td>
+                <td><a href="/seznam/jmeno/G">G</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/H">H</a></td>
+                <td><a href="/seznam/jmeno/H">H</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/I">I</a></td>
+                <td><a href="/seznam/jmeno/I">I</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/J">J</a></td>
+                <td><a href="/seznam/jmeno/J">J</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/K">K</a></td>
+                <td><a href="/seznam/jmeno/K">K</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/L">L</a></td>
+                <td><a href="/seznam/jmeno/L">L</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/M">M</a></td>
+                <td><a href="/seznam/jmeno/M">M</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/N">N</a></td>
+                <td><a href="/seznam/jmeno/N">N</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/O">O</a></td>
+                <td><a href="/seznam/jmeno/O">O</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/P">P</a></td>
+                <td><a href="/seznam/jmeno/P">P</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/Q">Q</a></td>
+                <td><a href="/seznam/jmeno/Q">Q</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/R">R</a></td>
+                <td><a href="/seznam/jmeno/R">R</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/S">S</a></td>
+                <td><a href="/seznam/jmeno/S">S</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/T">T</a></td>
+                <td><a href="/seznam/jmeno/T">T</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/U">U</a></td>
+                <td><a href="/seznam/jmeno/U">U</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/V">V</a></td>
+                <td><a href="/seznam/jmeno/V">V</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/W">W</a></td>
+                <td><a href="/seznam/jmeno/W">W</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/X">X</a></td>
+                <td><a href="/seznam/jmeno/X">X</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/Y">Y</a></td>
+                <td><a href="/seznam/jmeno/Y">Y</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/Z">Z</a></td>
+                <td><a href="/seznam/jmeno/Z">Z</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C2%AC">¬</a></td>
+                <td><a href="/seznam/jmeno/%C3%81">Á</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C3%81">Á</a></td>
+                <td><a href="/seznam/jmeno/%C3%84">Ä</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C3%87">Ç</a></td>
+                <td><a href="/seznam/jmeno/%C3%87">Ç</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C3%89">É</a></td>
+                <td><a href="/seznam/jmeno/%C3%89">É</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C3%93">Ó</a></td>
+                <td><a href="/seznam/jmeno/%C3%8D">Í</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C3%96">Ö</a></td>
+                <td><a href="/seznam/jmeno/%C3%96">Ö</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C3%9A">Ú</a></td>
+                <td><a href="/seznam/jmeno/%C3%9A">Ú</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C3%9C">Ü</a></td>
+                <td><a href="/seznam/jmeno/%C3%9C">Ü</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C4%84">Ą</a></td>
+                <td><a href="/seznam/jmeno/%C3%9D">Ý</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C4%86">Ć</a></td>
+                <td><a href="/seznam/jmeno/%C4%84">Ą</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C4%8C">Č</a></td>
+                <td><a href="/seznam/jmeno/%C4%86">Ć</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C4%8E">Ď</a></td>
+                <td><a href="/seznam/jmeno/%C4%8C">Č</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C4%90">Đ</a></td>
+                <td><a href="/seznam/jmeno/%C4%8E">Ď</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C4%9A">Ě</a></td>
+                <td><a href="/seznam/jmeno/%C4%90">Đ</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C4%B9">Ĺ</a></td>
+                <td><a href="/seznam/jmeno/%C4%9A">Ě</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C4%BD">Ľ</a></td>
+                <td><a href="/seznam/jmeno/%C4%B9">Ĺ</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C5%81">Ł</a></td>
+                <td><a href="/seznam/jmeno/%C4%BD">Ľ</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C5%87">Ň</a></td>
+                <td><a href="/seznam/jmeno/%C5%81">Ł</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C5%90">Ő</a></td>
+                <td><a href="/seznam/jmeno/%C5%90">Ő</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C5%94">Ŕ</a></td>
+                <td><a href="/seznam/jmeno/%C5%98">Ř</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C5%98">Ř</a></td>
+                <td><a href="/seznam/jmeno/%C5%9A">Ś</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C5%9A">Ś</a></td>
+                <td><a href="/seznam/jmeno/%C5%9E">Ş</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C5%9E">Ş</a></td>
+                <td><a href="/seznam/jmeno/%C5%A0">Š</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C5%A0">Š</a></td>
+                <td><a href="/seznam/jmeno/%C5%A4">Ť</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C5%A2">Ţ</a></td>
+                <td><a href="/seznam/jmeno/%C5%B0">Ű</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C5%A4">Ť</a></td>
+                <td><a href="/seznam/jmeno/%C5%B9">Ź</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C5%AE">Ů</a></td>
+                <td><a href="/seznam/jmeno/%C5%BB">Ż</a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C5%B0">Ű</a></td>
+                <td><a href="/seznam/jmeno/%C5%BD">Ž</a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C5%B9">Ź</a></td>
+                <td><a href="/seznam/jmeno"></a></td>
+            </tr>
+            <tr class="even">
+                <td><a href="/seznam/prijmeni/%C5%BB">Ż</a></td>
+                <td><a href="/seznam/jmeno"></a></td>
+            </tr>
+            <tr class="odd">
+                <td><a href="/seznam/prijmeni/%C5%BD">Ž</a></td>
+                <td><a href="/seznam/jmeno"></a></td>
+            </tr>
+        </table>
+                </div>
+                <div id="left_bottom">
+                </div>
+            </div>
+            <div id="middleRight">
+                <div id="middle">
+                    <div id="flashes">
+<div id="snippet--flashes"></div>                    </div>
+
+
+    <div class="middleTitles">
+        <h1>Abecední seznamy příjmení a křestních jmen</h1>
+    </div>
+    <div class="zajimavosti">
+        <div>
+            <p>
+            Tato stránka umožňuje abecední vyhledávání <strong>četnosti příjmení</strong> a <strong>křestních jmen</strong>, jež jsou v naší databázi obsaženy. 
+            <strong>Příjmení a křestní jména</strong> jsou převzata s veřejně dostupné databáze <abbr title="Ministerstva vnitra České republiky">MVČR</abbr> (více viz <a href="/o-projektu">sekce Zdroj dat na stránce O projektu</a>), pokud tedy hledané jméno v naší databázi nenaleznete, s největší pravděpodobností se nenachází ani v databázi <abbr title="Ministerstva vnitra České republiky">MVČR</abbr>.
+            </p>
+
+            <p>Funguje to velmi jednoduše:</p>
+            <ul>
+                <li>V levém navigačním menu si vyberte, zda chcete hledat <strong>příjmení či křestní jméno</strong> (tedy levý, respektive pravý sloupeček).</li>
+                <li>Zvolte si počáteční písmeno <strong>příjmení anebo křestního jména</strong> kliknutím na příslušnou buňku v příslušném sloupci.</li>
+                <li>Zobrazí se seznam všech <strong>příjmení anebo křestních jmen</strong>, která jsou obsažena v naší databázi a začínají zvoleným počátečním písmenem.</li>
+                <li>Po kliknutí na libovolné zobrazené <strong>příjmení anebo křestní jméno</strong> se zobrazí <strong>mapa čestnosti výskytu</strong> v rámci České republiky.</li>
+            </ul>
+
+            <p></p>
+            <p>Funkce <strong>abecedních seznamů příjmení a křestních jmen</strong> je stádiu testování, pokud byste objevili nějakou chybu, dejte nám prosím vědět. Kontakt na nás najdete na stránce <a href="/front.static/kontakt/">Kontakty</a>. <strong>Děkujeme!</strong></p>
+        </div>
+    </div>
+
+	<div class="b468">
+		<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-6514354968523540";
+		google_ad_slot = "3063341774";
+		google_ad_width = 468;
+		google_ad_height = 60;
+		//-->
+		</script>
+		<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>		
+	</div>
+                </div>
+                <div id="right">
+<div class="slevomat">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6514354968523540";
+/* KdeJsme.cz (sub-page prava) 300x250 */
+google_ad_slot = "2413328170";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+<div>
+	<script type="text/javascript"><!--
+	google_ad_client = "ca-pub-6514354968523540";
+	google_ad_slot = "3202942574";
+	google_ad_width = 300;
+	google_ad_height = 250;
+	//-->
+	</script>
+	<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>    
+</div>                    
+                    <div class="odkazy">
+                        <h2>Další zajímavé stránky</h2>
+                        <br />
+                        <a target="_blank" href="http://www.seznamka-pro-seniory.cz" title="seznamka pro seniory"><img src="/images/seznamka-pro-seniory.png" alt="seznamka-pro-seniory.cz" /></a>
+                        <br />
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="clear"></div>
+            <div id="bottom">
+                <div id="bottomLeft">
+                    <ul>
+                        <li><a href="/o-projektu">O projektu KdeJsme.cz</a></li>
+                        <li><a href="/napsali-o-nas">Napsali o nás</a></li>
+                    </ul>
+                </div>
+                <div id="bottomRight">
+                    <a href="http://www.malacka.cz" title="malacka.cz"><img src="/images/created.jpg" alt="Created by Ondrej Malacka / malacka.cz" /></a>
+                </div>
+            </div>
+
+
+        </div>
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-17787601-4']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+    </body>
+</html>

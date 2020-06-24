@@ -1,0 +1,118 @@
+body{
+		text-align: center;
+		margin:0px;
+	}
+ul{
+   text-align: left;
+}
+	div#HRContainer{
+		margin-left: auto;
+		margin-right: auto;
+		width: 996px;
+		text-align: center;
+		background-color:#FFF;
+	}	
+	div#HRWraper{
+		margin-left:10px;
+		width:976px;
+		text-align: left;
+		font-family: Arial,Helvetica,sans-serif;
+		font-size: 12px;
+	}
+	div#HRTop{
+		top:0px;
+		position: absolute;
+		background-color:#FFF;
+		width: 978px;	
+	}
+	div#HRHeader{
+		background-color:#5393db;
+	}	
+	div#HRHeaderTop{
+		height:71px;
+		background-image:url('http://www.hr.com/portals/hrcom/newimages/logobg.gif');
+		background-repeat:repeat-x;
+	}
+	div#HRHeaderLogo{
+		float:left;
+		border: 0px none; 
+		width: 250px;
+	}
+	div#HRHeaderRight{
+		text-align: right;
+		float:right;
+	}
+	div#HRMenu{
+		margin-top:2px;
+		border-bottom:#003c85 solid 1px;
+                border-top: 2px solid #77B2EA;
+	}
+	div#HRQuickLinks{
+		height:40px;
+	}
+	div#HRBelowHeader{
+		height:100px;
+	}
+	div#HRTopAdd{
+		float:left;
+                width:728px;
+	}
+	div#HRLogin{
+		float:right;
+	}
+	
+	div#HRPosPath{
+		background-color: #EFF3F4;
+		border-bottom: 1px solid #CED0D3;
+		height: 18px;
+		margin-bottom: 7px;
+		padding-top: 5px;
+		padding-left: 15px;
+	}	
+	
+	div#HRCenter{
+		border-left: 1px solid #CED0D3;
+		border-top: 1px solid #CED0D3;
+		top:240px;
+		position: relative;
+	}
+	div#HRMainContent{
+		margin-left: 4px;
+		width:657px;
+		border-right: 1px solid #CED0D3;
+		min-height: 1410px;
+		height:auto !important;
+  	        height:1410px;
+	}	
+	div#HRIHRMainContent{
+		margin-left: 4px;
+		width:657px;
+		border-right: 1px solid #CED0D3;
+		min-height: 1500px;
+		height:auto !important;
+  	        height:1500px;
+                padding-right: 3px;
+	}
+	div#HRRight{
+		position: absolute;
+		right:-5px;
+		top:0px;
+		width: 305px;
+		margin-top:30px;
+                top: 240px;
+                text-align:left;
+	}
+	
+	div#HRFooterShim{
+		height: 250px;
+	}
+	div#HRFooter{
+		background-color: #5393DB;
+		height: 60px;
+		
+		padding-top: 25px;
+		text-align: center;
+	}
+	div#HRLowerFooterShim{
+		height: 30px;
+	}

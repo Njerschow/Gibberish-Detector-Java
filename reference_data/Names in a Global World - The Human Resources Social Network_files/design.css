@@ -1,0 +1,4573 @@
+/* ~~~ Dynamic SITEFORUM CSS file ~~~ www.siteforum.com/design ~~~ */
+.text .headline
+{
+	color:#be1e2d;
+	font-size:14px;
+	font-weight:bold;
+	margin:.7em 0em;
+	display:block;
+}
+h3.shortcut
+{
+	text-align:right;
+	margin-top:0px;
+}
+h3.menutext
+{
+	padding-bottom:0px;
+}
+.NewBlue
+{
+	color:#bd212f;
+	font-size:16px;
+	font-weight:bold;
+}
+.redSmall
+{
+	font-size:11px;
+	color:#bd212f;
+}
+.CatBold {
+    color:#be1e2d;
+    
+}
+#sortPanel span {
+    color:#be1e2d;
+    
+}
+.sfsNewsFeed h2, .blogRelRight h2 {
+font-size:12px !important;
+}
+
+.sfsFieldsetDialog h1 {
+    color: #000000;
+	}
+.sfsStoryContainer h1, .sfsProductContainer h1 {
+color: #BE1E2D !important;
+}
+.MemberLevel {
+    font-size: 14px;
+    font-weight: bold;
+}
+body {
+    background-color: #000000 !important;
+    background-image: none;
+}
+.colorContent, .dialogBorder_0 {
+background-color:#fff;
+}
+
+
+.hrBtProfile img
+{ border:none; margin:1px 0 2px 0; padding:0; }
+
+h3.headlineGreen
+{
+	background-image:url(/portals/hrcom/logo_images/bg_big_green.gif);
+	background-position:0px 0px;
+	background-repeat:repeat-x;
+	margin:0;
+	padding:4px 14px;
+	background-color:#75CA00;
+	color:#fff;
+	font-size:20px;
+}
+.banner2 img {
+	border:1px solid #666;
+}
+.fontStyle1
+{
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#74848d;
+}
+
+.homeMybox
+{
+	background-color:#EDF0F2;
+}
+.homeMybox a:link, .homeMyBox a:visited
+{
+	background-color:#EDF0F2;
+	display:block;
+}
+.homeMybox a:hover, .homeMyBox a:active
+{
+	background-color:#fff;
+	display:block;
+}
+body {
+padding:0px !important;
+}
+div#HRHeader 
+{
+    background-color: #000000!important;
+}
+div#HRMenu 
+{
+    border-top: none!important;
+}
+
+div#HRHeaderTop {
+    background-image: none;
+}
+
+div#HRTop 
+{
+    width: 976px !important;
+}
+div#HRHeaderTop {
+    height:105px!important;
+}
+
+div#HRHeaderLogo {
+    width:230px !important;
+overflow: hidden;
+}
+#HRHeaderRight {
+    margin: 8px 8px 0 0;
+}
+#sfsLoginAreaTx, #sfsLoginAreaPw {
+    width:110px !important;
+    margin:0px !important;
+}
+div#HRLogin {
+float: right;
+    width: 295px;
+}
+div#HRCenter, div#HRRight {
+    top:141px !important;
+}
+#HRCenter {
+    overflow:hidden;
+}
+div#HRRight {
+    float: right;
+    margin-top: 0 !important;
+    position: static !important;
+    text-align: left;
+    width: 300px !important;
+overflow:hidden;
+}
+div#HRFooter {
+background-color: #000000 !important;
+    height: 100px !important;
+    line-height: 21px !important;
+    padding-top: 15px !important;
+}
+div#HRFooter .copyright {
+    font-size: 11px;
+    margin-top: 6px;
+}
+#LoginContainer {
+width:250px; 
+height:70; 
+margin:7px 0px 7px 50px;
+}
+#LoginContainer2 {
+width:300px;
+}
+.LoginImage {
+float: left;
+    margin-right: 7px;
+    max-width: 75px;
+    overflow: hidden;
+}
+#HomeCenter {
+	height: auto !important;
+	/*min-height: 1110px;*/
+	width: 660px;
+	margin-right:316px;
+}
+#HomeRight {
+	width:300px; overflow:hidden;
+	float:right;
+    height:auto;
+}
+#HomeMainContainer {
+	background-color:#fff;
+	width:976px;
+	overflow:auto;
+}
+div#HRMainContent {
+overflow:auto;
+width:650px !important;
+}
+.ActivityColumns {
+    width:320px; 
+    float:left; 
+    word-wrap:break-word;
+margin-top:15px;
+}
+.ActivityColumns_Guest {
+    width:660px; 
+margin-top:15px;
+overflow: hidden;
+}
+.imgFloatRight {
+    float: right;
+}
+#pman.sf #content {
+padding-top:47px !important;
+background-color:#eeeeee
+}
+#pman #subnavi {
+padding-top:47px !important;
+}
+#sfsContactProfile .cImage img.BadgeImg {
+border: none;
+padding: 0px;
+margin: 8px 8px 4px 0;
+}
+body {
+    background-color: #000000 !important;
+    background-image: none;
+}
+
+
+.hrBtProfile img
+{ border:none; margin:1px 0 2px 0; padding:0; }
+
+h3.headlineGreen
+{
+	background-image:url(/portals/hrcom/logo_images/bg_big_green.gif);
+	background-position:0px 0px;
+	background-repeat:repeat-x;
+	margin:0;
+	padding:4px 14px;
+	background-color:#75CA00;
+	color:#fff;
+	font-size:20px;
+}
+.banner2 img {
+	border:1px solid #666;
+}
+.fontStyle1
+{
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#74848d;
+}
+
+.homeMybox
+{
+	background-color:#EDF0F2;
+}
+.homeMybox a:link, .homeMyBox a:visited
+{
+	background-color:#EDF0F2;
+	display:block;
+}
+.homeMybox a:hover, .homeMyBox a:active
+{
+	background-color:#fff;
+	display:block;
+}
+body {
+padding:0px !important;
+}
+div#HRHeader 
+{
+    background-color: #000000!important;
+}
+div#HRMenu 
+{
+    border-top: none!important;
+}
+
+div#HRHeaderTop {
+    background-image: none;
+}
+
+div#HRTop 
+{
+    width: 976px !important;
+}
+div#HRHeaderTop {
+    height:105px!important;
+}
+
+div#HRHeaderLogo {
+    width:230px !important;
+overflow: hidden;
+}
+#HRHeaderRight {
+    margin: 8px 8px 0 0;
+}
+#sfsLoginAreaTx, #sfsLoginAreaPw {
+    width:110px !important;
+    margin:0px !important;
+}
+div#HRLogin {
+float: right;
+    width: 295px;
+}
+
+div#HRRight {
+    float: right;
+    margin-top: 0 !important;
+    position: static !important;
+    text-align: left;
+    width: 300px !important;
+overflow:hidden;
+}
+#LoginContainer {
+width:250px; 
+height:70; 
+margin:7px 0px 7px 50px;
+}
+#LoginContainer2 {
+width:300px;
+}
+.LoginImage {
+float: left;
+    margin-right: 7px;
+    max-width: 75px;
+    overflow: hidden;
+}
+#HomeCenter {
+	height: auto !important;
+	/*min-height: 1110px;*/
+	width: 660px;
+	margin-right:316px;
+}
+#HomeRight {
+	width:300px; overflow:hidden;
+	float:right;
+    height:auto;
+}
+#HomeMainContainer {
+	background-color:#fff;
+	width:976px;
+	overflow:auto;
+}
+div#HRMainContent {
+overflow:auto;
+}
+.ActivityColumns {
+    width:320px; 
+    float:left; 
+    word-wrap:break-word;
+margin-top:15px;
+}
+.ActivityColumns_Guest {
+    width:660px; 
+margin-top:15px;
+overflow: hidden;
+}
+.imgFloatRight {
+    float: right;
+}
+#pman.sf #content {
+padding-top:47px !important;
+background-color:#eeeeee
+}
+#pman #subnavi {
+padding-top:47px !important;
+}
+#sfsContactProfile .cImage img.BadgeImg {
+border: none;
+padding: 0px;
+margin: 8px 8px 4px 0;
+}
+
+.ViewCartIcon {
+    clear: left;
+    padding-top: 2px;
+}
+#sfsMainMenuDropDown {
+background-image: none !important;
+clear:right !important;
+border-top:none !important;
+}
+
+#sfsMainMenuDropDown ul li.ct2, #sfsMainMenuDropDown ul li.ct1 {
+display:none;
+}
+#sfsMainMenuDropDown ul.menuDropTop li.branch.menuDrop.ct5 ul.tree {
+    left: -9999px;
+}
+
+/*referral button*/
+.reffer-bttn{
+   text-indent: -9999px;
+   cursor: default;
+   float: left;
+   margin-right: 2px;
+}
+.reffer-bttn.active{
+   cursor: pointer;
+}
+.reffer-bttn.friend-small{
+   width:104px;
+   height:27px;
+   background: transparent url(/portals/hrcom/remoteimages/website-images/2013_siteupdate/buttons/ReferFriend115.gif) no-repeat;
+}
+.reffer-bttn.friend-small.active{
+   background-position: left -27px;
+}
+.reffer-bttn.friend-big{
+   width:150px;
+   height:40px;
+   background: transparent url(/portals/hrcom/remoteimages/website-images/2013_siteupdate/buttons/ReferFriend150.gif) no-repeat;
+}
+.reffer-bttn.friend-big.active{
+   background-position: left -40px;
+}
+
+
+.reffer-bttn.event-big{
+   width:150px;
+   height:40px;
+   background: transparent url(/portals/hrcom/remoteimages/website-images/2013_siteupdate/buttons/ReferEvent150.gif) no-repeat;
+}
+.reffer-bttn.event-big.active{
+   background-position: left -40px;
+}
+.reffer-bttn.event-small{
+   width:104px;
+   height:27px;
+   background: transparent url(/portals/hrcom/remoteimages/website-images/2013_siteupdate/buttons/ReferEvent115.gif) no-repeat;
+}
+.reffer-bttn.event-small.active{
+   background-position: left -27px;
+}
+.StyledTable td, .Memberships td {
+    border-left: 1px solid #CCCCCC;
+    border-top: 1px solid #CCCCCC;
+padding: 5px !important;
+}
+table.StyledTable, table.Memberships {
+    border-right: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+/* ~~~ v01-3c01_layout.css ~~~ */
+body
+{
+    margin:0em;
+    padding:0em;
+}
+#sfsBody
+{
+    margin:0em;
+    padding:0em;
+    min-width:65em;
+    width:100%;
+}
+#sfsMain, #sfsMainContent
+{
+    margin:0em;
+    padding:0em;
+    height:100%;
+}
+#sfsHeader
+{
+    height:95px;
+    clear:both;
+}
+#sfsHeader2
+{
+    clear:both;
+}
+#sfsHeader2 .welcome
+{
+    display:block;
+    float:left;
+    width:200px;
+padding:.2em 1em;
+}
+#sfsHeaderMenus
+{
+    padding:.5em 1em;
+    font-size:.8em;
+}
+#sfsNavigation
+{
+    float:left;
+    width:190px;
+    margin:0em;
+    padding:1em 1em 1em 0em;
+}
+#sfsNaviNews
+{
+    float:right;
+    width:190px;
+    margin:0em;
+    padding:1em 1em 1em 1em;
+}
+#sfsContent
+{
+    height:100%;
+    margin:0% 230px 0% 200px;
+    padding:0em 0em 5em 0em;
+}
+#sfsContentIn
+{
+    overflow:hidden;
+    height:100%;
+    margin:0em 1em 0em 1em;
+    padding:0em;
+}
+#sfsFooter
+{
+    clear:both;
+    display:block;
+    margin:0;
+    padding:1em;
+    height:2.5em;
+}
+
+#sfsToolBar
+{
+    position:absolute;
+    top:1.5em;
+    right:1em;
+    float:right;
+    width:60%;
+    margin:0em;
+    padding:0em 1em 0em 0em;
+}
+
+#sfsToolBar
+{
+    z-index:10000;
+}
+#sfsLogoLeft
+{
+    z-index:10001;
+}
+
+#sfsLanguageButton
+{
+    padding-top:0.3em;
+}
+/* ~~~ v01-3c01_white-blue_colors.css ~~~ */
+/* ~~~ backgrounds, colors, fonts ~~~~~~~~~~~~~~~~~~~~~~ */
+body
+{
+	background-color:#E4ECEF;
+}
+#sfsBody2, #sfsMain
+{
+	background-color:#fff;
+}
+#sfsContent
+{
+	border-left:1px solid #eee;
+	border-right:1px solid #eee;
+}
+.fontFaceB, .fontFaceBig, strong, b
+{
+	font-weight:bold;
+}
+#sfsHeader
+{
+	background-color:#fff;
+}
+#sfsHeaderMenus
+{
+	background-color:#36659b;
+	color:#fff;
+	border-bottom:1px solid #8cbef3;
+}
+#sfsHeaderMenus a:link,
+#sfsHeaderMenus a:visited,
+#sfsHeaderMenus a:hover,
+#sfsHeaderMenus a:active
+{
+	color:#fff;
+}
+#sfsFooter
+{
+	border-top:5px solid #069;
+	border-bottom:1px solid #000;
+	background-color:#036;
+	color:#fff;
+}
+#sfsFooter img
+{
+	border:0px;
+}
+a:link
+{
+	text-decoration:underline;
+	color:#827572;
+}
+a:visited
+{
+	text-decoration:underline;
+	color:#827572;
+}
+a:hover
+{
+	text-decoration:none;
+	color:#827572;
+}
+a:active
+{
+	text-decoration:none;
+	color:#827572;
+}
+/* ~~~ mainMenus ~~~~~~~~~~~~~~~~~~~~~~ */
+
+#sfsMainMenus
+{
+	border-top:3px solid #069;
+	border-bottom:3px solid #136291;
+	background-color:#003;
+}
+#sfsMainMenus ul li a
+{
+	border-top:1px solid #fff;
+	border-left:1px solid #fff;
+	background-color:#036;
+	text-decoration:none;
+	font-weight:bold;
+}
+#sfsMainMenus ul li a:link
+{
+	color:#fff;
+}
+#sfsMainMenus ul li a:visited
+{
+	color:#fff;
+}
+#sfsMainMenus ul li a:hover,
+#sfsMainMenus ul li.sfsMainMenuListActive a
+{
+	background-position:0em 0em;
+	background-repeat:repeat-x;
+	background-color:#136291;
+	border-color:#000;
+	color:#fff;
+}
+/* ~~~ subMenus, newsFlash ~~~~~~~~~~~~~~~~~~~~~~ */
+
+.sfsNewsContainer
+{
+	border-top:1px solid #fff;
+	border-right:1px solid #999;
+	border-bottom:1px solid #333;
+	border-left:1px solid #fff;
+}
+.sfsNewsContainer h2.headline a
+{
+}
+#sfsMenuRows ul li a
+{
+	text-decoration:none;
+}
+#sfsMenuRowsList,
+.sfsNewsContainer,
+.sfsForumUser
+{
+	background-color:#fff;
+}
+#sfsMenuRows ul li
+{
+	border-top:1px solid #fff;
+	border-right:1px solid #999;
+	border-bottom:1px solid #999;
+}
+#sfsMenuRows ul li.level1 a
+{
+	padding:3px 5px 3px 20px;
+	font-weight:bold;
+}
+#sfsMenuRows ul li.level2 a
+{
+	padding:3px 5px 3px 30px;
+	font-weight:normal;
+}
+#sfsMenuRows ul li.level3 a
+{
+	padding:3px 5px 3px 35px;
+	font-weight:normal;
+}
+#sfsMenuRows ul li a:link,
+#sfsMenuRows ul li a:visited,
+.newsflash a:link,
+.newsflash a:visited
+{
+	color:#003;
+}
+#sfsMenuRows ul li a:hover,
+#sfsMenuRows ul li a.active-a:link,
+#sfsMenuRows ul li a.active-a:visited,
+#sfsMenuRows ul li a.active-a:hover,
+.sfsNewsContainer a:hover
+{
+	background-color:#fff;
+	color:#333;
+	text-decoration:none;
+}
+/* ~~~ applications, searchBox, personalUserBar ~~~~~~~~ */
+
+#sfsApplications
+{
+	background-color:#069;
+}
+#sfsApplications, #sfsApplications a
+{
+	color:#999;
+}
+#sfsApplications ul li.sfsApplicationListActive a
+{
+	color:#fff;
+background-color:#069;
+	text-decoration:none;
+}
+#sfsApplications ul li a
+{
+	color:#999;
+}
+#sfsPositionPath
+{
+	color:#b6cad5;
+}
+#sfsPositionPath a
+{
+	color:#5c6f79;
+}
+#sfsSearchBoxButton
+{
+	background-color:#069;
+	color:#fff;
+}
+#sfsSearchBox div.sfsAppLinks
+{
+	background-color:#fff;
+	padding:0.2em 0.2em 0.2em 1em;
+}
+/* ~~~~ story and product templates ~~~~~~~~~~~~~~~~ */
+
+#sfsContentIn .sfsIntroContainer h2,
+#sfsContentIn .sfsStoryContainer h1,
+#sfsContentIn .sfsProductContainer h1,
+#sfsContentIn div.headline
+{
+	background-color:#fff;
+	color:#35659A;
+	font-weight:bold;
+}
+.sfsIntroContainer, .sfsStoryContainer, .sfsProductContainer
+{
+	border:none;
+}
+.sfsIntroContainer a.moreDetails:link,
+.sfsIntroContainer a.moreDetails:visited,
+.sfsIntroContainer a.moreDetails:hover,
+.sfsIntroContainer a.moreDetails:active
+{
+	text-decoration:none;
+	background-color:#fff;
+	border:1px solid #069;
+}
+.sfsStoryContainer .shortDesc,
+.sfsStoryContainer .caption,
+.sfsProductContainer .sfsBuyButton
+{
+	background-color:#fff;
+}
+.sfsStoryContainer .text h2
+{
+	background-color:#fff;
+	border-bottom:1px solid #ccc;
+}
+.sfsStoryContainer .text table td
+{
+	border-collapse:collapse;
+}
+/* ~~~~ dialogs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.sfsDialogBox
+{
+	border-top:1px solid #eee;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	border-left:1px solid #eee;
+}
+
+.dialogLines
+{
+	background-color:#ccc;
+}
+table.dialogTableList .dialogListHead_1
+{
+	background-color:#fff;
+}
+table.dialogTableList
+{
+	border-collapse:collapse;
+}
+table.dialogTableList td
+{
+	border:1px solid #ccc;
+}
+table.dialogTableList .c2
+{
+	background-color:#fff;
+}
+/* ~~~~ dialogNavDiv colors ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.dialogNavDiv ul
+{
+	border-bottom:1px solid #333;
+}
+ul.dialogNavList li a:link,
+ul.dialogNavList li a:visited
+{
+	border:1px solid #999;
+	border-bottom:none;
+	background-color:#eee;
+	color:#036;
+	font-weight:bold;
+	text-decoration:none;
+}
+ul.dialogNavList li a:hover,
+ul.dialogNavList li a:active
+{
+	color:#000;
+	background-color:#fff;
+	border:1px solid #333;
+	border-bottom:none;
+	font-weight:bold;
+	text-decoration:none;
+}
+ul.dialogNavList li a.listActiveA:link,
+ul.dialogNavList li a.listActiveA:visited,
+ul.dialogNavList li a.listActiveA:hover,
+ul.dialogNavList li a.listActiveA:active
+{
+	color:#000;
+	background:#fff;
+	border:1px solid #333;
+	border-bottom:3px solid #fff;
+	font-weight:bold;
+	text-decoration:none;
+}
+ul.dialogNavList li a.navListExitA
+{
+	border:1px solid #ff9f00;
+	border-bottom:none;
+}
+/* ~~~ v01-3c01_white-blue_images.css ~~~ */
+/* ~~~ background-images ~~~~~~~~~~~~~~~~~~~~~~ */
+
+body
+{
+	background-image:url(/portals/hrcom/story_images/bg-grey-2013.jpg);
+	background-position:0px 0px;
+	background-repeat:repeat;
+}
+#sfsHeader
+{
+	background-image:url(/portals/hrcom/logo_images/hrcom_logo_70bg.jpg);
+	background-position:0px 0px;
+	background-repeat:repeat-x;
+}
+#sfsApplications
+{
+	background-image:url(/global_files/backgrounds/vgr/bg_vgr_whitebgrey_60x200.jpg);
+	background-position:0px 0px;
+	background-repeat:repeat-x;
+}
+#sfsLogoLeft img
+{
+	margin:0em;
+	border:0em;
+}
+#sfsNavigation div.bgImgNavi
+{
+	margin:3em 0em 0em 0em;
+	height:14em;
+	background-image:url(/global_files/themes/siteforum/cluster_160x80_1.gif);
+	background-position:0px 0px;
+	background-repeat:no-repeat;
+}
+#sfsMainMenus ul li a
+{
+	background-image:url(/global_files/backgrounds/vgr/bg_vgr_blue_200x30_dark.gif);
+}
+#sfsMainMenus ul li a:hover,
+#sfsMainMenus ul li.sfsMainMenuListActive a
+{
+	background-image:url(/global_files/backgrounds/vgr/bg_vgr_blue_200x30_light.gif);
+}
+#sfsMenuRowsList,
+.sfsNewsContainer
+{
+	background-image:url(/global_files/backgrounds/hgr/bg_hgr_lightblue2_300x70.jpg);
+	background-repeat:repeat-y;
+}
+#sfsSearchBox div.sfsAppLinks
+{
+	background-image:url(/global_files/backgrounds/hgr/bg_hgr_lightblue2_300x70.jpg);
+	background-repeat:repeat-y;
+}
+.sfsGatewayBox .gBox
+{
+	background-image:url(/images/1x1.gif);
+	background-repeat:repeat-y;
+}
+.sfsGatewayBox .gBox .head
+{
+	background-image:url(/portals/hrcom/newimages/blue250.gif);
+	background-repeat:repeat-x;
+	background-position:center;
+}
+.sfsGatewayBox .gBox .head img
+{
+	display:none;
+}
+#sfsMenuRows ul li.level1 a
+{
+	background-image:url(/global_files/icons/arrows/arrow_1_right.gif);
+	background-repeat:no-repeat;
+	background-position:0px 3px;
+}
+#sfsMenuRows ul li.level2 a
+{
+	background-image:url(/global_files/icons/arrows/arrow_1_right.gif);
+	background-repeat:no-repeat;
+	background-position:10px 3px;
+}
+#sfsMenuRows ul li.level3 a
+{
+	background-image:url(/global_files/icons/arrows/arrow_1_right.gif);
+	background-repeat:no-repeat;
+	background-position:15px 3px;
+}
+#sfsContentIn .sfsIntroContainer h2,
+#sfsContentIn .sfsStoryContainer h1,
+#sfsContentIn .sfsProductContainer h1,
+#sfsContentIn div.headline
+{
+	background-image:url(/global_files/backgrounds/hgr/bg_hgr_whitegrey_300x70.jpg);
+	background-repeat:repeat-y;
+}
+table.dialogTableList .dialogListHead_1, .sfsForumUser
+{
+	background-image:url(/global_files/backgrounds/vgr/bg_vgr_whitebgrey_60x200.jpg);
+	background-position:0px 0px;
+	background-repeat:repeat-x;
+}
+table.dialogTableList .c2
+{
+	background-image:url(/global_files/backgrounds/vgr/bg_vgr_whitebgrey_60x200.jpg);
+	background-position:0px 0px;
+	background-repeat:repeat-x;
+}
+#sfsPersonalUserBar ul li a.bt
+{
+	background-image:url(/global_files/backgrounds/vgr/bg_vgr_orange_200x20.gif);
+}
+/* ~~~ applications.css ~~~ */
+#sfsApplications
+{
+        padding:0.2em 0.5em 0.5em 0.5em;
+}
+#sfsApplications ul
+{
+        margin:0em;
+        padding:0em;
+}
+#sfsApplications ul li
+{
+        list-style:none;
+        display:inline;
+        margin:0em;
+        padding:0em;
+        height:0em;
+}
+#sfsApplications ul li a
+{
+        padding:0.2em 0.5em 0.5em 0.5em;
+}
+/* ~~~ dialogNavDiv.css ~~~ */
+/* ~~~ style for standard tab navigation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.dialogNavDiv ul
+{
+        margin:0 0 1em 0;
+        padding:0.2em 0em .3em .3em;
+        list-style-type:none;
+        white-space:nowrap;
+}
+.dialogNavDiv ul li
+{
+        display:inline;
+        white-space:nowrap;
+        line-height:1.3em;
+}
+.dialogNavDiv ul li a
+{
+        margin:0em 0em 0em 0.1em;
+        padding:0.2em 0.7em;
+        text-decoration:none;
+        font-weight:bold;
+        font-size:.91em;
+        line-height:1.3em;
+}
+.dialogNavDiv ul .navListExit
+{
+        float:right;
+}
+/* ~~~ dialogNavDiv_colors.css ~~~ */
+/* ~~~ colors for standard tab navigation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.dialogNavDiv ul
+{
+        border-bottom:1px solid #999;
+}
+
+.dialogNavDiv ul li a:link,
+.dialogNavDiv ul li a:visited
+{
+        border:1px solid #999;
+        border-bottom:none;
+        background-color:#eee;
+        color:#417FC5;
+        font-weight:bold;
+        text-decoration:none;
+background-image: url(/portals/hrcom/tabs/shade.gif);
+}
+.dialogNavDiv ul li a:hover,
+.dialogNavDiv ul li a:active
+{
+        color:#417FC5;
+        background-color:#fff;
+        border:1px solid #999;
+        border-bottom:none;
+        font-weight:bold;
+        text-decoration:none;
+background-image: url(/portals/hrcom/tabs/shade.gif);
+}
+.dialogNavDiv ul li.dialogNavActive a:link,
+.dialogNavDiv ul li.dialogNavActive a:visited,
+.dialogNavDiv ul li.dialogNavActive a:hover,
+.dialogNavDiv ul li.dialogNavActive a:active
+{
+        color:#417FC5;
+        background-color:#fff;
+        border:1px solid #999;
+        border-bottom:3px solid #fff;
+        font-weight:bold;
+        text-decoration:none;
+background-image: url(/portals/hrcom/tabs/shadeactive.gif);
+}
+
+.dialogNavDiv ul li.dialogNavInactive a:link,
+.dialogNavDiv ul li.dialogNavInactive a:visited,
+.dialogNavDiv ul li.dialogNavInactive a:hover
+{
+        background-color:#fff;
+        border:1px solid #ccc;
+        border-bottom:1px solid #fff;
+        color:#ccc;
+}
+.dialogNavDiv ul li.dialogNavExit a
+{
+        border:1px solid #ff9f00;
+        border-bottom:none;
+}
+/* ~~~ dialogNavForm.css ~~~ */
+/* ~~~ dialog / navi form buttons (beta!) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.dialogNavFormDiv input
+{
+    font-family:arial,sans-serif;
+    font-size:0.95em;
+}
+.dialogNavFormDiv
+{
+    margin:0em 0em 1em 0em;
+    padding:0.3em 0em 0em 0.3em;
+    border-bottom:1px solid #333;
+    height:2.1em;
+    position:relative;
+    z-index:998;
+}
+input.btNavForm,
+input.btNavFormActive,
+input.btNavFormInactive
+{
+    display:inline;
+    white-space:nowrap;
+    margin:0;
+    padding:0.3em 1em 0.15em 1em;
+    text-decoration:none;
+    font-weight:bold;
+    cursor:pointer;
+    overflow:visible;
+}
+input.btNavForm[type="submit"],
+input.btNavFormActive[type="submit"],
+input.btNavFormInactive[type="button"]
+{
+    padding:.3em .3em .3em .3em;
+}
+input.btNavForm
+{
+    border:1px solid #999;
+    border-bottom:none;
+    background-color:#eee;
+    color:#036;
+}
+input.btNavFormActive
+{
+    border:1px solid #333;
+    border-bottom:3px solid #fff;
+    background-color:#fff;
+    color:#000;
+    position:relative;
+    z-index:999;
+}
+input.btNavFormInactive
+{
+    border:1px solid #ccc;
+    border-bottom:none;
+    background-color:#fff;
+    color:#ccc;
+}
+.sfsGuideBt
+{
+    margin-bottom:0.5em;
+    height:1.4em;
+    padding:0.2em 0.2em 0.2em 24%;
+    border:1px solid #ccc;
+    background-color:#eee;
+    color:#000;
+}
+.sfsGuideBt input[type="submit"]
+{
+    padding:0em 1em;
+}
+/* ~~~ iconMenus.css ~~~ */
+
+#sfsIconMenus ul
+{
+        padding:0;
+        margin:0;
+}
+#sfsIconMenus ul li
+{
+        list-style:none;
+        margin:0;
+}
+#sfsIconMenus ul li a
+{
+        padding-left:0.5em;
+}
+/* ~~~ mainMenuDropDown.css ~~~ */
+body
+{
+    behavior:url("/global_files/javascript/navigations/mainMenuDropDown.htc");
+}
+
+/* ~~~ the menus ~~~~~~~~~~~~~~~ */
+
+#sfsMainMenuDropDown
+{
+    clear:both;
+}
+
+#sfsMainMenuDropDown,
+#sfsMainMenuDropDown ul,
+#sfsMainMenuDropDown ul.tree li
+{
+    display:block;
+    margin:0em;
+    padding:0em;
+    border:0em;
+}
+
+#sfsMainMenuDropDown ul li.menuDrop,
+#sfsMainMenuDropDown ul li.menuDropActive
+{
+    float:left;
+    padding:0em 0em;
+}
+
+#sfsMainMenuDropDown ul.tree
+{
+    clear:left;
+}
+#sfsMainMenuDropDown ul li
+{
+    list-style-type:none;
+}
+#sfsMainMenuDropDown .menuDropFooter
+{
+    clear:left;
+    font-size:1px;
+    line-height:1px;
+    height:1px;
+    width:1px;
+}
+
+#sfsMainMenuDropDown ul ul
+{
+    width:18em;
+    list-style:none;
+}
+
+#sfsMainMenuDropDown li
+{
+    position:relative;
+    z-index:1100;
+}
+#sfsMainMenuDropDown li.branch ul
+{
+    position:absolute;
+}
+
+/* standard browsers */
+#sfsMainMenuDropDown ul.tree li.branch ul
+{
+    top:-0.3em;
+    left:15.3em;
+}
+/* other browsers */
+#sfsMainMenuDropDown ul.tree li.branch>ul { left:15.5em; }
+
+/* ~~~ the links ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#sfsMainMenuDropDown a.menu,
+#sfsMainMenuDropDown a.menuActive
+{
+    display:block;
+    padding: .2em .9em;
+    text-decoration:none;
+    font-size:1.0em;
+    line-height:1.3em;
+}
+
+#sfsMainMenuDropDown ul.tree li a
+{
+    display:block;
+    margin:0em 0em 0em 0em;
+    padding:0.2em 0em 0.2em 0.6em;
+    text-decoration:none;
+    font-size:0.9em;
+    font-weight:normal;
+}
+
+/* ~~~ hovers with specificity ~~~~~~~~~~~~~ */
+
+#sfsMainMenuDropDown li.branch:hover { z-index:10101; }
+
+#sfsMainMenuDropDown ul ul,
+#sfsMainMenuDropDown li:hover ul ul,
+#sfsMainMenuDropDown li:hover li:hover ul ul,
+#sfsMainMenuDropDown li:hover li:hover li:hover ul ul
+{
+    display:none;
+}
+
+#sfsMainMenuDropDown li:hover ul,
+#sfsMainMenuDropDown li:hover li:hover ul,
+#sfsMainMenuDropDown li:hover li:hover li:hover ul,
+#sfsMainMenuDropDown li:hover li:hover li:hover li:hover ul
+{
+    display:block;
+}
+/* ~~~ mainMenuDropDown_colors.css ~~~ */
+/* ~~~ colors and images ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#sfsMainMenuDropDown
+{
+	background-image:url(/portals/hrcom/logo_images/hrcom_logo_70bg.jpg);
+	background-position:0px 0px;
+	background-repeat:repeat-x;
+	border-top:2px solid #77b2ea;
+}
+#sfsMainMenuDropDown ul ul
+{
+    border-top:1px solid #ccc;
+    border-right:2px solid #666;
+    border-bottom:2px solid #666;
+    border-left:1px solid #ccc;
+    background-color:#eee;
+}
+
+#sfsMainMenuDropDown ul.tree li
+{
+    border-bottom:1px solid #ccc;
+}
+
+#sfsMainMenuDropDown a:link,
+#sfsMainMenuDropDown a:visited
+{
+    color:#666;
+}
+#sfsMainMenuDropDown a:hover,
+#sfsMainMenuDropDown a:active
+{
+    color:#000;
+}
+
+#sfsMainMenuDropDown ul.tree li a
+{
+    border:1px solid #eee;
+}
+#sfsMainMenuDropDown ul.tree li a:hover
+{
+    background-color:#ccc;
+}
+
+#sfsMainMenuDropDown ul li.menuDrop a.menu
+{
+    font-weight:normal;
+    color:#fff;
+    border:0;
+}
+
+#sfsMainMenuDropDown ul li.menuDrop a.menu:hover,
+#sfsMainMenuDropDown ul li.menuDrop:hover a.menu,
+#sfsMainMenuDropDown ul li.menuDropActive a.menuActive
+{
+    font-weight:normal;
+    color:#036;
+background-color:#BE1E2D;
+    border:0;
+}
+
+#sfsMainMenuDropDown a.twig
+{
+    background:url("/global_files/icons/arrows/arrow_0r_right_black.gif");
+    background-position:right;
+    background-repeat:no-repeat;
+}
+/* ~~~ menuRows.css ~~~ */
+#sfsMenuRows
+{
+        display:block;
+        margin:0em 0em 1em 0em;
+        padding:0;
+}
+#sfsMenuRows ul
+{
+        margin:0;
+        padding:0;
+        list-style-type:none;
+}
+#sfsMenuRows ul li,
+#sfsMenuRows ul li a
+{
+        display:block;
+        font-size:0.97em;
+}
+/* ~~~ pager.css ~~~ */
+.sfsPager
+{
+    border-top:1px solid #ccc;
+    margin:1em 0em;
+}
+.sfsPager .left,
+.sfsPager .right
+{
+    padding:.5em 1em;
+}
+.sfsPager .left a
+{
+    border:1px solid #ccc;
+    padding:0em .3em;
+}
+.sfsPager .left strong,
+.sfsPager .left span
+{
+    border:1px solid #eee;
+    padding:0em .3em;
+}
+/* ~~~ personalUserBar.css ~~~ */
+#sfsPersonalUserBar ul
+{
+        display:inline;
+        margin:0;
+        padding:0;
+}
+#sfsPersonalUserBar ul li
+{
+        display:inline;
+        float:right;
+        margin:0.3em 0em 0em 0em;
+        padding:0em 0em 0.3em 0em;
+        list-style:none;
+}
+#sfsPersonalUserBar ul li a.bt
+{
+        margin:0em 0.1em 0em 0em;
+        padding:0.16em 1em 0.16em 1.5em;
+        font-size:0.85em;
+        line-height:1.6em;
+}
+#sfsPersonalUserBar ul li.sfsLanguageBt
+{
+        padding:0.2em 0.3em 0em 1em;
+}
+
+/* ~~~ colors ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+#sfsPersonalUserBar ul li a.bt
+{
+        border:1px solid #fff;
+        text-decoration:none;
+        background-color:#ff6900;
+        background-position:0px 0px;
+        background-repeat:repeat-x;
+}
+#sfsPersonalUserBar ul li a.bt:link
+{
+        color:#fff;
+}
+#sfsPersonalUserBar ul li a.bt:visited
+{
+        color:#fff;
+}
+#sfsPersonalUserBar ul li a.bt:hover
+{
+        color:#fff;
+        border-color:#000;
+}
+/* ~~~ positionPath.css ~~~ */
+#sfsPositionPath
+{
+        margin:0em;
+        padding:.2em 1em 0em 0em;
+}
+/* ~~~ tagCloud.css ~~~ */
+.sfsTagCloud { padding:1em; }
+.sfsTagCloud .fs1 { font-size:.8em; }
+.sfsTagCloud .fs2 { font-size:.9em; }
+.sfsTagCloud .fs3 { font-size:1em; }
+.sfsTagCloud .fs4 { font-size:1.1em; }
+.sfsTagCloud .fs5 { font-size:1.2em; }
+.sfsTagCloud .fs6 { font-size:1.3em; }
+.sfsTagCloud .fs7 { font-size:1.4em; }
+.sfsTagCloud .fs8 { font-size:1.5em; }
+.sfsTagCloud .fs9 { font-size:1.6em; }
+.sfsTagCloud .fs10 { font-size:1.7em; }
+/* ~~~ dialogMessages.css ~~~ */
+.dialogMessage
+{
+    margin:1em;
+    padding:0;
+    border:0;
+}
+.dialogMessage h3
+{
+    display:block;
+    margin:0;
+    padding:1.2em 1em 1.2em 5em;
+    background-repeat:no-repeat;
+    background-position:0 0;
+    background-color:transparent;
+    border:3px solid #666;
+    font-size:1.2em;
+    font-weight:bold;
+}
+.dialogMessage .error h3
+{
+    background-image:url(/global_files/backgrounds/symbols/symbol_warning1.gif);
+    background-color:#f60;
+    border-top-color:#c00;
+    border-left-color:#c00;
+    color:#fff;
+}
+.dialogMessage .warning h3
+{
+    background-image:url(/global_files/backgrounds/symbols/symbol_warning2.gif);
+    background-color:#f7943a;
+    border-top-color:#ffbf00;
+    border-left-color:#ffbf00;
+    color:#fff;
+}
+.dialogMessage .attention h3
+{
+    background-image:url(/global_files/backgrounds/symbols/symbol_attention1.gif);
+    background-color:#fc0;
+    border-top-color:#e7a00a;
+    border-left-color:#e7a00a;
+    color:#900;
+}
+.dialogMessage .success h3
+{
+    background-image:url(/global_files/backgrounds/symbols/symbol_success1.gif);
+    background-color:#090;
+    border-top-color:#2fad30;
+    border-left-color:#2fad30;
+    color:#fff;
+}
+.dialogMessage .content
+{
+    display:block;
+    margin:0 0 1em 0;
+    padding:1em 2em 1.3em 24%;
+    color:#000;
+    background:url(/global_files/backgrounds/vgr/bg_vgr_whitebgrey_60x200.jpg) repeat-x #fff;
+    border:3px solid #d3dcE1;
+    border-top:0;
+    font-weight:normal;
+}
+.dialogMessage .error .details
+{
+    overflow:auto;
+}
+.dialogMessage .button input
+{
+    padding:0em 2em;
+}
+.dialogMessage .button
+{
+    padding-top:.3em;
+}
+.dialogMessage hr
+{
+    height:1px;
+    border:none;
+    border-bottom:2px solid #ccc;
+}
+/* ~~~ dialogNotes.css ~~~ */
+/* ~~~ dialogs / notes ~~~ */
+
+.sfsNote, .sfsNoteRed, .sfsNoteGreen, .sfsNoteHelp, code
+{
+    display: block;
+    margin:0em 0em 1em 0em;
+    padding:1em;
+    color:#000;
+    background-color:#fff;
+    background-image:url(/global_files/backgrounds/vgr/bg_vgr_whitebgrey_60x200.jpg);
+    background-position:0px 0px;
+    background-repeat: repeat-x;
+}
+
+code
+{
+    display:block;
+    font-size:12px;
+    border:3px solid #d3dcE1;
+    font-weight:normal;
+    white-space:pre;
+    overflow:auto;
+}
+
+.sfsNote
+{
+    border:3px solid #d3dcE1;
+}
+
+.sfsNoteHelp
+{
+    border:3px solid #d3dcE1;
+    border-right:3px solid #069;
+}
+
+.sfsNoteRed
+{
+    border-top:3px solid #d3dcE1;
+    border-right:3px solid #c00;
+    border-bottom:3px solid #c00;
+    border-left:3px solid #d3dcE1;
+}
+
+.sfsNoteGreen
+{
+    border-top:3px solid #d3dcE1;
+    border-right:3px solid #090;
+    border-bottom:3px solid #090;
+    border-left:3px solid #d3dcE1;
+}
+/* ~~~ dialogs.css ~~~ */
+div.sfsDialogBox
+{
+    padding:1em 0.2em 1em 0.4em;
+    margin:0em 0em 1em 0em;
+}
+/* ~~~ main dialog ~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.sfsFieldsetDialog
+{
+        display:block;
+        margin:0em;
+        padding:0em 0em 1em 0em;
+        background-image:url(/portals/hrcom/newimages/artheadbg.gif);
+        background-repeat:repeat-x;
+}
+
+.sfsFieldsetDialog h1
+{
+        display:block;
+        margin:0em;
+        padding:14px 1em 0.3em 14px;
+font-size:25px;
+        color:#35659A;
+}
+
+
+.sfsFieldsetDialog .sfsDialogContent
+{
+    display:block;
+    margin:0em;
+    padding:1em;
+}
+
+.sfsFieldsetDialog legend
+{
+    margin:0em;
+    padding:0.3em 1em;
+}
+.sfsFieldsetDialog .content
+{
+    padding:1em;
+}
+/* ~~~ main dialog inner container elements ~~~~~~~~~~~~~~ */
+
+div.tableFix
+{
+    width:99.9%;
+}
+table.dialogListBorder td, table.dialogListBorder th
+{
+    padding:0.5em;
+}
+#sfsSeminarCalsheet
+{
+    width:100%;
+    overflow:auto;
+    padding-bottom:5em;
+}
+/* ~~~ additionElements.css ~~~ */
+#sfsStoryAdds ul,
+#sfsProductAdds ul
+{
+        margin:0em 1.25em 3em 1em;
+        padding:0em;
+}
+#sfsStoryAdds ul li,
+#sfsProductAdds ul li
+{
+        list-style:none;
+        display:inline;
+        padding-right:1.5em;
+}
+
+#sfsStoryAdds ul li li,
+#sfsProductAdds ul li li
+{
+        list-style:disc;
+        display:list-item;
+}
+
+#sfsStoryAdds .sameContext,
+#sfsStoryAdds .topicComments
+{
+
+}
+/* ~~~ blogs.css ~~~ */
+.sfsBlog
+{
+        background-image:url(/portals/hrcom/newimages/artheadbg.gif);
+        background-repeat:repeat-x;
+	padding:1.5em 0em;
+}
+.sfsBlog .line
+{
+        background-image:url(/portals/hrcom/images/line2.gif);
+        background-repeat:repeat-x;
+        margin:0em; height:.5em;
+}
+.sfsBlog h3
+{
+	margin:.5em 0em;
+}
+.sfsBlog .author
+{
+	padding:.5em 0em; font-size:.8em;
+}
+.sfsBlogContent
+{
+	padding:1em 0em;
+}
+.sfsBlog hr
+{
+	display:none;
+}
+.sfsBlogFooter
+{
+	border-top:1px solid #999;
+	margin:0em;
+	padding:0.1em 0em 0.1em 0em;
+}
+.sfsBlogAdds
+{
+	margin:0em;
+	padding:.5em .5em 1em .5em;
+	background-color:#4484CB;
+	border-top:.1em solid #036;
+	color:#fff;
+	height:3em;
+}
+.sfsBlogAdds a:link,
+.sfsBlogAdds a:visited,
+.sfsBlogAdds a:hover,
+.sfsBlogAdds a:active
+{
+	color:#fff;
+}
+/* ~~~ designTemplates.css ~~~ */
+.sfsStoryContainer
+{
+        display:block;
+        margin:0em;
+        padding:0em 0em 1em 0em;
+        background-image:url(/portals/hrcom/newimages/artheadbg.gif);
+        background-repeat:repeat-x;
+background-color:#ffffff;
+}
+
+.sfsStoryContainer h1, .sfsProductContainer h1
+{
+        display:block;
+        margin:0em;
+        padding:14px 1em 0.3em 14px;
+font-size:25px;
+        color:#35659A;
+}
+.sfsIntroContainer h2
+{
+        display:block;
+        margin:0em;
+        padding:0em 1em;
+}
+.sfsIntroContainer, .sfsProductContainer
+{
+        display:block;
+        margin:.3em 0em 0em 0em;
+        padding:0em 0em 1em 0em;
+}
+.sfsIntroContainer a.moreDetails:link,
+.sfsIntroContainer a.moreDetails:visited,
+.sfsIntroContainer a.moreDetails:hover,
+.sfsIntroContainer a.moreDetails:active
+{
+        margin:0.1em 0em;
+        padding:0em 0.5em;
+        font-size:0.7em;
+        float:right;
+}
+.sfsIntroContainer .text
+{
+        padding:0.6em 1em;
+}
+.sfsIntroContainer .cleaner
+{
+        background-image:url(/portals/hrcom/images/line2.gif);
+margin:0em 1.2em;
+}
+
+.sfsIntroLeftTxt
+{
+        margin:0em 0em 0em 45px;
+        min-height:6em;
+        height:auto !important;
+        height:6em;
+}
+
+.sfsIntroLeftImg, .sfsStoryLeftImg, .sfsProductLeftImg
+{
+        margin:0em;
+        padding:0em 1em 1em 1.2em;
+        float:left;
+}
+
+.sfsIntroRightImg, .sfsStoryRightImg, .sfsProductRightImg
+{
+        margin:0em;
+        padding:1em 1.2em 1em 1em;
+        float:right;
+}
+
+img.sfsIntroImg
+{
+        border-width:0px;
+        margin:0em;
+        padding:0em;
+}
+
+.sfsStoryContainer .shortDesc,
+.sfsStoryContainer .text,
+.sfsProductContainer .shortDesc,
+.sfsProductContainer .sfsBuyButton
+{
+        margin:0em;
+        padding:1em 1.2em;
+}
+.sfsProductContainer .text
+{
+        margin-right:300px;
+        padding:1em 1.2em;
+}
+.sfsStoryContainer .text h2,
+.sfsProductContainer .text h2
+{
+        display:block;
+        margin:1em 0em 0.5em 0em;
+        padding:0.3em 0em;
+}
+.sfsStoryContainer .text table td,
+.sfsProductContainer .text table td
+{
+        vertical-align:top;
+        padding:0em;
+}
+.sfsStoryContainer ul li,
+.sfsProductContainer ul li
+{
+        padding:0em 0em;
+        margin:0em 1em;
+}
+/* ~~~ newsFlashNavi.css ~~~ */
+.sfsNewsFlash
+{
+        margin:0em 0em 0em 0em;
+        padding:0em;
+}
+.sfsNewsContainer
+{
+        margin:1em 0em 0em 0em;
+        padding:0.8em;
+}
+.sfsNewsTop h3.headline
+{
+        display:block;
+        margin:0em;
+        padding:0em;
+}
+.sfsNewsTop h3.headline a
+{
+        display:block;
+        padding:0.1em 0em 0.2em 0.1em;
+}
+.sfsNewsContainer .text
+{
+        font-size:0.8em;
+}
+.sfsNewsTop h3.headline
+{
+        display:block;
+        font-size:0.97em;
+}
+/* ~~~ starRating.css ~~~ */
+.sfsStarRating{
+    float:right;
+}
+.sfsStarRating{
+    display:block;
+    width:140px;
+}
+.sfsStarRating small{
+    display:block;
+    text-align:center;
+}
+.sfsStars{
+    background-color:#fff;
+    border:1px solid #999;
+    width:120px;
+    margin:3px 10px 0px 10px;
+    padding:3px 0px 3px 0px;
+    text-align:left;
+}
+.sfsStars ul{
+    text-align:left;
+    list-style:none;
+    margin:0px 0px 0px 10px;
+    padding:0px;
+    width: 100px;
+    height: 20px;
+    position: relative;
+    background: url("/global_files/icons/symbols/stars01.gif") top left repeat-x;
+}
+.sfsStars ul li{
+    padding:0;
+    margin:0 !important;
+    display:inline;
+}
+.sfsStars li a{
+    display:block;
+    width: 20px;
+    height: 20px;
+    text-decoration: none;
+    text-indent: -9000px;
+    z-index: 20;
+    position: absolute;
+    padding:0;
+}
+.sfsStars li a:hover{
+    background: url("/global_files/icons/symbols/stars01.gif") left center;
+    z-index: 2;
+    left:0;
+}
+.sfsStars a.one-star{
+    left:0;
+}
+.sfsStars a.one-star:hover{
+    width:20px;
+}
+.sfsStars a.two-stars{
+    left:20px;
+}
+.sfsStars a.two-stars:hover{
+    width: 40px;
+}
+.sfsStars a.three-stars{
+    left: 40px;
+}
+.sfsStars a.three-stars:hover{
+    width: 60px;
+}
+.sfsStars a.four-stars{
+    left: 60px;
+}
+.sfsStars a.four-stars:hover{
+    width: 80px;
+}
+.sfsStars a.five-stars{
+    left: 80px;
+}
+.sfsStars a.five-stars:hover{
+    width: 100px;
+}
+.sfsStars li.current-rating{
+    background: url("/global_files/icons/symbols/stars01.gif") left bottom;
+    position: absolute;
+    height: 20px;
+    display: block;
+    text-indent: -9000px;
+    z-index: 1;
+}
+/* ~~~ wiki.css ~~~ */
+/* ~~~ wiki styles ~~~ */
+
+.sfsWiki .categoryLinks {
+    border: 1px solid #999;
+    background-color: #eee;
+    padding: .5em;
+    margin-top: 1em;
+    clear: both;
+}
+
+.sfsWiki .summary {
+    border: 1px solid #999;
+    background-color: #eee;
+    padding: .5em;
+    margin: 1em 0em;
+    display:table;
+}
+
+.sfsWiki .summary ul {
+    padding: 0em;
+    margin: 1em 0em;
+    list-style-type: none;
+}
+
+.sfsWiki a.newLink:link,
+.sfsWiki a.newLink:visited,
+.sfsWiki a.newLink:hover,
+.sfsWiki a.newLink:active
+{
+    color:#c00;
+}
+/* ~~~ calendar.css ~~~ */
+#calendarYear .year
+{
+        width:100%;
+}
+#calendarYear .month
+{
+        vertical-align:top;
+        padding-bottom:.5em;
+}
+#calendarYear .month td
+{
+        text-align:center;
+}
+#calendarYear .month .headline
+{
+        display:block;
+        padding:.3em .3em;
+        background-color:#eee;
+        font-weight:bold;
+}
+#calendarPopup .calendar td, #calendarMini .calendar td
+{
+        text-align:center;
+        font-size:.9em;
+}
+#calendarMini
+{
+        text-align:center;
+        width:90%;
+        padding-left:10px;
+}
+.calendarPager
+{
+        margin:.5em 0;
+        padding:.2em .3em;
+        font-weight:bold;
+        background-color:#eee;
+        border:1px solid #ccc;
+}
+.calendarPager .textCenter
+{
+        position:relative;
+}
+.calendar
+{
+        background-color:#fff;
+        width:100%;
+        border-collapse:collapse;
+}
+.calendar a:link, .calendar a:visited
+{
+        text-decoration:none;
+        color:#333;
+}
+.calendar a:hover, .calendar a:active
+{
+        text-decoration:none;
+        color:#036;
+}
+.calendar td
+{
+        border:1px solid #a8a8a8;
+        vertical-align:top;
+        padding:.3em .2em;
+}
+.calendar .trTop td
+{
+        width:13%;
+        font-weight:bold;
+        background-color:#eee;
+        text-align:center;
+}
+.calendar td.tdLeft
+{
+        width:9%;
+        vertical-align:middle;
+        background-color:#eee;
+        text-align:center;
+}
+#calendarDay .trTop td
+{
+        width:91%;
+}
+#calendarDay .trTop .tdLeft
+{
+        width:9%;
+}
+#calendarMonth .calendar .today, #calendarDay .today
+{
+        border:2px solid #036;
+}
+#calendarWeek .today
+{
+        border-top:1px solid #999;
+        border-right:2px solid #036;
+        border-bottom:1px solid #999;
+        border-left:2px solid #036;
+}
+#calendarWeek .trTop .today
+{
+        border-top:2px solid #036;
+        border-bottom:1px solid #036;
+}
+#calendarWeek .todayBottom
+{
+        border-top:1px solid #999;
+        border-right:2px solid #036;
+        border-bottom:2px solid #036;
+        border-left:2px solid #036;
+}
+#calendarPopup .today, #calendarYear .today, #calendarWeek .trTop .today, #calendarMini .today
+{
+        background-color:#036;
+}
+#calendarPopup .today a, #calendarYear .today a, #calendarWeek .trTop .today a, #calendarMini .today a
+{
+        color:#fff;
+}
+a.event1, a.event0
+{
+        clear:both;
+        display:block;
+        border-width:1px;
+        border-style:solid;
+        padding:.2em;
+        margin:.2em;
+        font-size:.9em;
+}
+a.event1
+{
+        border-color:#507396;
+        background:url(/global_files/backgrounds/vgr/bg_vgr_greyblue_50x50_02.jpg) repeat-x #d0dbdf;
+}
+a.event0
+{
+        border-color:#ccc;
+        background:url(/global_files/backgrounds/vgr/bg_vgr_orange_50x50_02.jpg) repeat-x #ffd392;
+}
+.event
+{
+        background:url(/global_files/backgrounds/symbols/bg_delta_transparent_bt100.gif) bottom right no-repeat;
+}
+a.eventType-10{
+    border-color: lightGrey;
+    background: lightGreen;
+}
+a.eventType-11{
+    border-color: lightGrey;
+    background: lightBlue;
+}
+a.unapproved{
+    border-color: lightGrey;
+    background: pink;
+}
+a.unapproved div{
+    float:right;
+    padding:1px;
+    border: 1px solid;
+}
+.calendar .add
+{
+        display:block;
+        width:16px;
+        text-align:center;
+        float:right;
+}
+.calendar a.add:link, .calendar a.add:visited
+{
+        background-color:#eee;
+        color:#666;
+}
+.calendar a.add:hover, .calendar a.add:active
+{
+        background-color:#f60;
+        color:#fff;
+}
+#calendarWeek .add
+{
+        margin-bottom:1em;
+}
+#calendarMonth .nbr
+{
+        background-color:#eee;
+        color:#036;
+        width:2.5em;
+        display:block;
+        margin-bottom:2em;
+        text-align:center;
+        padding:.4em 0;
+        font-weight:bold;
+}
+#calendarMonth .weekend .nbr
+{
+        background-color:#ccc;
+}
+#calendarMonth .today .nbr
+{
+        background-color:#036;
+        color:#fff;
+}
+#calendarMonth .anotherMonth
+{
+        background-color:#eee;
+}
+#calendarMonth .anotherMonth .nbr
+{
+        color:#999;
+}
+tr.allday, tr.main
+{
+}
+tr.morning td, tr.evening td
+{
+        padding:0em .2em;
+        color:#666;
+        background-color:#f3f3f3;
+}
+tr.morning td.weekend, tr.evening td.weekend, td.weekend
+{
+        background-color:#ccc;
+}
+/* ~~~ gatewayBox.css ~~~ */
+/* ~~~ note: pos:relative = fix for IE6 ~~~~~~~~~~~~~~~~~~ */
+.sfsGatewayBox h3
+{
+    text-align:center;
+    line-height:1.2em;
+    margin:0em;
+    padding:0.5em;
+}
+.sfsGatewayBox .gBox
+{
+    margin-bottom:.5em;
+}
+.sfsGatewayBox .gBox .head
+{
+    border-bottom:1px solid #999;
+    padding:.3em .5em;
+    position:relative;
+}
+.sfsGatewayBox .gBox .head a.colorNavigation
+{
+    width:16px;
+}
+.sfsGatewayBox .gBox .head img
+{
+    border:0px;
+    vertical-align:middle;
+    width:16px;
+}
+.sfsGatewayBox .gBox p
+{
+    padding:.5em;
+}
+.sfsGatewayBox .gBox select
+{
+    width:230px;
+}
+
+.sfsGatewayBox ul
+{
+    margin:.5em .5em .5em 0em;
+    padding-left:.5em;
+    list-style-type:none;
+}
+.sfsGatewayBox li
+{
+    line-height:1.1em;
+    padding:.1em 0em;
+    border-bottom:1px solid #eee;
+}
+.sfsGatewayBox li a
+{
+    font-weight:normal;
+}
+.sfsGatewayBox li strong a
+{
+    font-weight:bold;
+}
+.sfsGatewayBox li .fontFaceL a
+{
+    font-weight:normal;
+}
+.sfsGatewayBox .more
+{
+    text-align:right;
+    display:block;
+    padding-right:1em;
+}
+table.sfsGatewayBox tr td
+{
+    padding:.5em .5em .5em 0em;
+}
+#gb2, #gb4
+{
+    position:relative;
+}
+#gb2 .gBox, #gb4 .gBox
+{
+    position:relative;
+}
+/* ~~~ image listing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.sfsGatewayBox .typeImg li
+{
+    padding:.2em 0em 0em 0em;
+    border-bottom:1px solid #eee;
+    display:block;
+    height:55px;
+    overflow:hidden;
+}
+.sfsGatewayBox .typeImg li a.img
+{
+    display:block;
+    float:left;
+    width:30px;
+    height:40px;
+    overflow:hidden;
+    background-color:#eee;
+    border:1px solid #fff;
+    margin:0;
+}
+.sfsGatewayBox .typeImg li a.nf
+{
+    display:block;
+    float:left;
+    width:80px;
+    height:45px;
+    overflow:hidden;
+    background-color:#eee;
+    border:1px solid #999;
+    margin-right:5px;
+    text-align:center;
+}
+.sfsGatewayBox .typeImg li div
+{
+    display:block;
+    margin:0 0 0 40px;
+}
+.sfsGatewayBox .typeIntro ul
+{
+    margin:0;
+    padding-left:0;
+}
+.sfsGatewayBox .typeIntro li
+{
+    display:block;
+    float:left;
+    width:31%;
+    border:1px solid #ccc;
+    background-color:#fff;
+    margin:1% 0 0 1%;
+    padding:0;
+}
+.sfsGatewayBox .typeIntro li img
+{
+    vertical-align:middle;
+    margin:5px 2px 5px 5px;
+    border:0;
+}
+.sfsGatewayBox .typeIntro li a
+{
+    font-weight:bold;
+    text-decoration:none;
+}
+.sfsGatewayBox .typeOneRow li
+{
+    overflow:hidden;
+    white-space:nowrap;
+}
+/* ~~~ gatewayBox_colors.css ~~~ */
+/* ~~~ gatewayBox ~~~~~~~~~~~~~~~~~~~~~~ */
+
+.sfsGatewayBox .gBox
+{
+    border:2px solid #2e82d5;
+    background-color:#eee;
+}
+.sfsGatewayBox .gBox .head
+{
+    background-image:url(/portals/hrcom/newimages/blue250.gif);
+    background-repeat:repeat-x;
+    background-position:center;
+    background-color:#06c;
+    color:#fff;
+}
+#gb2 .gBox .head, #gb4 .gBox .head
+{
+    background-image:url(/global_files/backgrounds/vgr/bg_vgr_orange_100x50.gif);
+    background-repeat:repeat-x;
+    background-position:center;
+}
+.sfsGatewayBox .gBox .head a
+{
+    color:#fff;
+}
+.sfsGatewayBox .gBox .head img
+{
+    display:none;
+}
+.sfsGatewayBox h3
+{
+    color:#000;
+}
+#gb2, #gb4
+{
+    background-color:#d8e5ed;
+}
+#gb2 h3, #gb4 h3, #gb2 a, #gb4 a
+{
+    color:#900;
+}
+#gb2 .gBox, #gb4 .gBox
+{
+    border:2px solid #ff7f00;
+}
+#gb2 .gBox .head, #gb4 .gBox .head
+{
+    background-color:#ff7f00;
+}
+/* ~~~ network.css ~~~ */
+/* ~~~ personal tools / header ~~~~~~~~~~~~~~~~ */
+
+#sfsPersonalToolNetworkHeader
+{
+	padding:0em 0em 1em 0em;
+	height:6.5em;
+}
+#sfsPersonalToolNetworkHeader div.left
+{
+	margin:0em .7em 0em 0em;
+	padding:0em 1em 1em .3em;
+}
+#sfsPersonalToolNetworkHeader .sep
+{
+	border-right:1px solid #ccc;
+}
+#sfsPersonalToolNetworkHeader div.left ul
+{
+	list-style-type:none;
+	margin:.5em 0em 0em 0em;
+	padding:0em;
+	font-size:.8em;
+}
+/* ~~~~ contact profile ~~~~~~~~~~~~~~~~ */
+
+#sfsContactProfile
+{
+	background-image:url(/global_files/backgrounds/vgr/bg_vgr_grey_50x50_02.jpg);
+	background-repeat:repeat-x;
+	background-position:top;
+	padding:0em;
+	border:1px solid #ccc;
+	background-color:#fff;
+}
+#sfsContactProfile .cFace
+{
+	background-image:url(/global_files/backgrounds/hgr/bg_hgr_lightgrey_300x70.jpg);
+	background-repeat:repeat-y;
+	background-position:top;
+	margin:0em;
+	padding:0em 1em 0em 1em;
+	border-right:1px solid #ccc;
+	float:left;
+	text-align:center;
+	width:27.5%;
+	height:24.1em;
+}
+#sfsContactProfile .cImage
+{
+	height:164px;
+	text-align:center;
+	margin:1em .2em .5em 0em;
+}
+#sfsContactProfile .cImage img
+{
+	margin:0;
+	border:1px solid #ccc;
+	padding:2px;
+}
+#sfsContactProfile .cData
+{
+	float:left;
+	width:68%;
+}
+#sfsContactProfile .cBasicData
+{
+	margin:.5em 0em .5em 1em;
+}
+/* ~~~~ contact profile / action links ~~~~~~~~~~~~ */
+
+#sfsContactProfile .cBasicActions
+{
+	border-top:1px solid #ccc;
+	padding:.5em .5em 0em 1em;
+}
+#sfsContactProfile .cBasicActions ul
+{
+	margin:0em;
+	padding:0em;
+	list-style-type:none;
+}
+#sfsContactProfile .cBasicActions ul li
+{
+	margin:0em .1em .3em 0em;
+	padding:1px 1px 1px 1px;
+	float:left;
+display:block;
+	border-top:1px solid #999;
+	border-right:1px solid #333;
+	border-bottom:1px solid #333;
+	border-left:1px solid #333;
+	background-color:#CCFF00;
+}
+#sfsContactProfile .cBasicActions ul li a:link,
+#sfsContactProfile .cBasicActions ul li a:visited,
+#sfsContactProfile .cBasicActions ul li a:hover,
+#sfsContactProfile .cBasicActions ul li a:active
+{
+display:block;
+	background-repeat:repeat-x;
+	background-position:top;
+	color:#fff;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:.8em;
+	margin:0em;
+	padding:.4em .8em .3em .8em;
+	white-space:nowrap;
+}
+#sfsContactProfile .cBasicActions ul li a:link,
+#sfsContactProfile .cBasicActions ul li a:visited
+{
+	background-image:url(/portals/hrcom/logo_images/bg_green.gif);
+	background-color:#3b9d00;
+}
+#sfsContactProfile .cBasicActions ul li a:hover,
+#sfsContactProfile .cBasicActions ul li a:active
+{
+	background-image:url(/portals/hrcom/logo_images/bg_green.gif);
+	background-color:#3b9d00;
+}
+/* ~~~~ contact quickView and dataRelease ~~~~~ */
+.sfsContactQuickView
+{
+    padding:.5em;
+    background-color:#fff;
+}
+.sfsContactQuickView img,
+.sfsContactQVS img
+{
+    border:0;
+}
+.sfsContactQVS a.left
+{
+    width:30px;
+    height:40px;
+    overflow:hidden;
+    margin-right:5px;
+}
+
+.sfsContactDataRelease
+{
+	padding:0em 1em 1em 0em;
+	background-color:#fff;
+	line-height:2.5em;
+}
+.sfsContactDataRelease input
+{
+	vertical-align:middle;
+}
+/* ~~~ message view ~~~~~~~~~~~~~~~~ */
+
+.sfsMessageSubject, .sfsMessageContent
+{
+	padding:.5em;
+	margin-bottom:.5em;
+	background-color:#fff;
+	overflow:auto;
+}
+/* ~~~ network_contactPath_v03.css ~~~ */
+/* ~~~ contact path (version03) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.sfsContactPath
+{
+    background-image:url(/global_files/backgrounds/symbols/bg_cpatharrow03_90x20.gif);
+    background-repeat:repeat-x;
+    background-position:80px 36px;
+    margin-bottom:.5em;
+}
+.sfsContactPath .first,
+.sfsContactPath .middle,
+.sfsContactPath .last,
+.sfsContactPath .first2,
+.sfsContactPath .last2
+{
+    float:left;
+    width:74px;
+    height:95px;
+    padding:1px;
+}
+.sfsContactPath .first,
+.sfsContactPath .first2
+{
+    margin:0;
+}
+.sfsContactPath .middle
+{
+    margin:0 0 0 9px;
+}
+.sfsContactPath .last,
+.sfsContactPath .last2
+{
+    float:right;
+    background-image:none;
+    margin:0;
+}
+.sfsContactPath .cPerson
+{
+    border-top:none;
+    border-right:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+    border-left:none;
+    background-color:#eee;
+    background-image:url(/global_files/backgrounds/hgr/bg_hgr_lightgrey2_300x70.jpg);
+    background-repeat:repeat-y;
+    overflow:hidden;
+    padding:3px;
+    font-size:.8em;
+}
+.sfsContactPath .cPerson a.cImg
+{
+    display:block;
+    margin:0 0 .3em 0;
+    padding:1px;
+    height:42px;
+    background-color:#fff;
+}
+.sfsContactPath .cPerson img
+{
+    border:none;
+}
+.sfsContactPath .morePaths
+{
+    text-align:right;
+    font-size:.9em;
+}
+/* ~~~ dateBox.css ~~~ */
+.dateBox td { background-color:#eee; vertical-align:top; }
+.dateBox td img { margin:.2em; }
+.dateBox .fontFaceL { display:block; padding:0 0 0 .3em; color:#666; }
+.dateBox .year { padding:0 0 0 .8em; }
+/* ~~~ dialogForms.css ~~~ */
+/* ~~~ formStandard ~~ (BETA! $$segment) ~~~~~~~~~~~~~~~~~~~~~ */
+
+.formStandard fieldset .fullsize input,
+.formStandard fieldset .fullsize textarea,
+.formStandard fieldset .fullsize select
+{
+    width:95%;
+    font-size:11px;
+}
+.formStandard fieldset .halfsize input,
+.formStandard fieldset .halfsize textarea,
+.formStandard fieldset .halfsize select
+{
+    width:18em;
+    font-size:11px;
+}
+
+.formStandard input.disabled,
+.formStandard select.disabled
+{
+   border:1px dotted #ccc;
+}
+
+.formStandard .button input,
+.formStandard input.upload
+{
+   width:auto;
+   border:2px groove #ccc;
+}
+.formStandard label.p1,
+.formStandard div.p1
+{
+    display:block;
+    clear:left;
+    float:left;
+    margin:0em;
+    padding:0.3em;
+    width:24%;
+}
+.formStandard div.p2
+{
+    display:block;
+    float:left;
+    width:70%;
+    padding:0.3em;
+}
+.formStandard div.pt
+{
+    display:block;
+    padding:0.3em;
+}
+.formStandard br
+{
+    clear:both;
+}
+
+.formStandard fieldset
+{
+    border:1px solid #ccc;
+    margin:0.5em 0em;
+    padding:0.5em;
+}
+.formStandard fieldset legend
+{
+    margin:0em;
+    padding:0.3em;
+    font-weight:bold;
+}
+/* ~~~ forms.css ~~~ */
+/* ~~~ general forms ~~~~~~~~~~~~~~~~~~~~~~~ */
+form
+{
+    margin:0;
+    padding:0;
+}
+
+input.sfsCheckBox
+{
+    border-style:none;
+}
+
+label.p1{
+   word-wrap: break-word;
+}
+
+/* ~~~ loginArea.css ~~~ */
+#sfsLoginArea
+{
+	text-align:left;
+	float:left;
+	margin:2px 0 0 0;
+}
+#sfsLoginArea div,
+#sfsLoginAreaTx,
+#sfsLoginAreaPw,
+#sfsLoginAreaBt
+{
+	float:left;
+}
+#sfsLoginAreaTx,
+#sfsLoginAreaPw
+{
+	border:1px solid #3b9d00;
+}
+#sfsLoginArea form label.naviText
+{
+	padding:4px 0px;
+	float:left;
+	color:#3b9d00;
+	font-weight:bold;
+}
+#sfsLoginArea form label
+{
+	font-size:11px;
+}
+#sfsLoginAreaTx, #sfsLoginAreaPw
+{
+	margin:0em 0.9em 0em 0.9em; width:120px;
+}
+#sfsLoginAreaBottom
+{
+	display:inline;
+}
+#sfsLoginArea .sfsAppLinks
+{
+	display:inline;
+	padding:4px 0 0 20px;
+}
+#sfsLoginArea .sfsKeepLogin
+{
+	display:block;
+	float:left;
+	width:130px;
+	color:#069;
+padding-top:2px;
+}
+#sfsLoginArea .sfsKeepLogin input
+{
+	vertical-align:top;
+	float:left;
+}
+#sfsLoginAreaBt
+{
+	color:#fff;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:9px;
+	margin:0em;
+	padding:2px .8em;
+	white-space:nowrap;
+	background-image:url(/portals/hrcom/logo_images/bt_login.gif);
+	background-repeat:no-repeat;
+	background-position:top;
+	background-color:transparent;
+border:none;
+	cursor:pointer;
+height:22px; width:68px;
+font-size:0px;
+}
+/* ~~~ loginForm.css ~~~ */
+#sfsLogin
+{
+    margin:0;
+    padding:0;
+    float:none;
+}
+#sfsLogin .block1
+{
+    margin:0;
+    padding:1em 1.5em 2em 0em;
+    float:left;
+    width:60%;
+}
+#sfsLogin .block2
+{
+    margin:0;
+    padding:1em 1em 2em 0em;
+    float:left;
+    width:30%;
+}
+#sfsLoginFormTop label, #sfsLoginForm .sfsKeepLogin
+{
+    clear:left;
+    float:left;
+    margin:0em 0em 0.3em 0em;
+    width:13em;
+}
+#sfsLoginFormTx, #sfsLoginFormPw
+{
+    margin:0em 0em 0.3em 0em;
+    width:8.5em;
+}
+#sfsLoginForm
+{
+    width:24em;
+}
+#sfsLoginFormBt
+{
+    margin:0;
+    width:9em;
+    text-align:center;
+}
+#sfsLoginFormBottom
+{
+    padding:0.3em 0em 0em 0em;
+    clear:both;
+}
+/* ~~~ searchBox.css ~~~ */
+#sfsSearchBox
+{
+    float:right;
+    display:block;
+width:20em;
+}
+
+#sfsSearchBox div.sfsAppLinks
+{
+    clear:right;
+    display:block;
+    text-align:right;
+    float:right;
+}
+
+#sfsSearchBox form
+{
+    margin:0em;
+    padding:0em;
+}
+/* ~~~ page.css ~~~ */
+/* ~~~ layout ~~~~ */
+.canvas .group .apps
+{
+	margin-top:1em;
+	padding-bottom:2em;
+}
+.canvas.type2.cnt3 .group.nr1
+{
+	padding-bottom:.5em;
+}
+.canvas.type1.cnt2 .group.nr1,
+.canvas.type2.cnt3 .group.nr2
+{
+	width:49%;
+	float:left;
+}
+.canvas.type1.cnt2 .group.nr2,
+.canvas.type2.cnt3 .group.nr3
+{
+	width:49%;
+	float:right;
+}
+.canvas.type1.cnt3 .group
+{
+	width:32%;
+	float:left;
+	margin-right:1%;
+}
+.canvas.type1.cnt3 .group.nr3
+{
+	margin-right:0;
+}
+.canvas.type3.cnt2 .group.nr1
+{
+	width:30%;
+	float:left;
+}
+.canvas.type3.cnt2 .group.nr2
+{
+	width:68%;
+	float:right;
+}
+.canvas.type4.cnt2 .group.nr1
+{
+	width:68%;
+	float:left;
+}
+.canvas.type4.cnt2 .group.nr2
+{
+	width:30%;
+	float:right;
+}
+/* ~~~ pool.css ~~~ */
+
+/* ~~~ colours, images ~~~ */
+#applicationPool .toggle
+{
+	color:#fff;
+	border-top:1px solid #999;
+}
+#applicationPool .toggle .more,
+#applicationPool .toggle .more.closed
+{
+	display:block;
+	background-color:#999;
+	color:#fff;
+	background-image:url(/global_files/icons/arrows/arrow_1_down.gif);
+	background-repeat:no-repeat;
+	background-position:87px 3px;
+}
+#applicationPool .toggle .more.opened
+{
+	border-top:0px solid #999;
+	background-image:url(/global_files/icons/arrows/arrow_1_up.gif);
+	background-repeat:no-repeat;
+	background-position:87px 10px;
+}
+#applicationPool .stage
+{
+	border:1px solid #999;
+	background-color:#eee;
+}
+#applicationPool .stage .header
+{
+	border:1px solid #999;
+}
+#applicationPool .stage .header .level1
+{
+	background:url(/global_files/backgrounds/vgr/bg_vgr_black_02.jpg) repeat #999;
+	color:#fff;
+}
+#applicationPool .stage .header .level1 .right a
+{
+	color:#fff;
+	text-decoration:underline;
+}
+/* ~~~ layout ~~~ */
+
+#applicationPool .toggle .more,
+#applicationPool .toggle .more.closed
+{
+	width:95px;
+	text-align:left;
+	margin:0 auto;
+	padding:5px 0 5px 15px;
+	border-bottom-right-radius:5px;
+	border-bottom-left-radius:5px;
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-radius-bottomleft:5px;
+	-webkit-border-radius-bottomright:5px;
+	-khtml-border-radius-bottomleft:5px;
+	-khtml-border-radius-bottomright:5px;
+	cursor:pointer;
+}
+#applicationPool .stage
+{
+	margin:0;
+	padding:0;
+	height:280px;
+	overflow:hidden;
+	display:none;
+}
+#applicationPool .stage .header
+{
+	margin:4px;
+}
+#applicationPool .stage .header .level1
+{
+	height:35px;
+	padding:0px 15px;
+}
+#applicationPool .stage .header .level2
+{
+	padding:0 15px;
+	margin:10px 0;
+}
+#applicationPool .stage .header .level1 .left
+{
+	line-height:35px;
+	margin:0;
+	padding:0;
+}
+#applicationPool .stage .header .level1 .right
+{
+	line-height:35px;
+	margin:0;
+	padding:0;
+}
+#applicationPool stage .header .level1 .right a
+{
+	line-height:35px;
+	margin:0;
+	padding:0;
+}
+#applicationPool .stage .canvas
+{
+	margin:0;
+	padding:0 1em 1em 1em;
+	height:170px;
+	overflow:auto;
+}
+#applicationPool .stage .canvas .widget
+{
+	margin:0 2px 2px 0;
+	width:49%;
+	float:left;
+}
+/* ~~~ widget.css ~~~ */
+/* ~~~ layout ~~~ */
+
+.canvas .widget
+{
+	margin-bottom:1em;
+}
+.canvas .widget .head
+{
+	margin:2px;
+	padding:3px 8px 3px 3px;
+	display:block;
+	height:20px;
+	overflow:hidden;
+}
+.canvas .widget .head .toolbar
+{
+	display:block;
+	float:right;
+	width:80px;
+	opacity:0.30;
+	-moz-opacity:0.30;
+	filter:alpha(opacity=30);
+}
+.canvas .widget .head .toolbar:hover
+{
+	opacity:1;
+	-moz-opacity:1;
+	filter:alpha(opacity=100);
+}
+.canvas .widget .head h3
+{
+	display:inline;
+	padding-left:3px;
+	font-weight:normal;
+	line-height:20px;
+	overflow:hidden;
+}
+.canvas .widget.inactive .head
+{
+	opacity:0.70;
+	-moz-opacity:0.70;
+	filter:alpha(opacity=70);
+}
+.canvas .widget .content
+{
+	margin:3px;
+	padding:.8em .5em;
+	font-size:1em;
+	line-height:1.3em;
+}
+.canvas .widget .content .settings
+{
+	display:none;
+}
+.canvas .widget .content .settings .colors
+{
+	height:16px;
+	text-align:right;
+}
+.canvas .widget .content .settings .colors a
+{
+	padding-right:.7em;
+	text-decoration:none;
+}
+.canvas .widget .more
+{
+	display:block;
+	text-align:right;
+}
+.canvas .widget .cwiframe
+{
+	display:block;
+	width:99%;
+	height:200px;
+}
+.canvas.sortable .widget .head
+{
+	cursor:move;
+}
+.canvas .widget, 
+.canvas .widget .head
+{
+	border-top-right-radius:16px;
+	-moz-border-radius-topright:16px;
+	-webkit-border-top-right-radius:16px;
+	-khtml-border-radius-topright:16px;
+}
+.canvas .widget, 
+.canvas .widget .content
+{
+	border-bottom-left-radius:16px;
+	-moz-border-radius-bottomleft:16px;
+	-webkit-border-bottom-left-radius:16px;
+	-khtml-border-radius-bottomleft:16px;
+}
+.canvas .widget.collapsed
+{
+	border-bottom-left-radius:0;
+}
+.canvas .widget ul
+{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+ul.typeImg li
+{
+	display:block;
+	padding:5px 0 0 0;
+}
+ul.typeImg.typeProfile li
+{
+	display:block;
+	padding:5px 0;
+	border-top:1px solid #ccc;
+}
+ul.typeImg.typeIcon li
+{
+	padding:5px 0;
+}
+ul.typeImg li a.img
+{
+	display:block;
+	float:left;
+	overflow:hidden;
+	border:1px solid #ccc;
+	margin-right:5px;
+	text-align:center;
+	width:100px;
+	height:40px;
+}
+ul.typeImg.typeProfile li a.img
+{
+	width:30px;
+	height:40px;
+}
+ul.typeImg li div.item
+{
+	display:block;
+	margin-left:110px;
+}
+ul.typeImg.typeProfile li div.item
+{
+	margin-left:40px;
+}
+ul.typeImg.typeIcon li div.item
+{
+	margin-left:20px;
+}
+ul.typeImg.typeIcon li div.item strong
+{
+	padding:5px 0;
+	margin:0;
+	display:block;
+}
+ul.typeOneRow li
+{
+	overflow:hidden;
+	white-space:nowrap;
+}
+.canvas .widget .content ul fieldset
+{
+	padding:2px 7px 5px 7px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	-moz-border-radius-topright:8px;
+	-webkit-border-top-right-radius:8px;
+	-khtml-border-radius-topright:8px;
+	-moz-border-radius-bottomleft:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-khtml-border-radius-bottomleft:8px;
+}
+.canvas .widget .content ul fieldset legend
+{
+	font-weight:bold;
+	text-shadow:2px 2px 2px #ccc;
+}
+/* ~~~ icons ~~~~ */
+
+.canvas .widget .icon,
+.canvas .widget .toolbar .close,
+.canvas .widget .toolbar .collapse,
+.canvas .widget .toolbar .settings
+{
+	background:no-repeat center center;
+	float:right;
+	cursor:pointer;
+	font-size:12px;
+	line-height:12px;
+	padding:9px;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	-khtml-border-radius:3px;
+}
+.canvas .widget .head .icon
+{
+	display:none;
+	float:left;
+}
+.canvas .widget .toolbar .close
+{
+	background-image:url(/global_files/icons/symbols/x_close_icon.png);
+}
+.canvas .widget .toolbar .collapse
+{
+	background-image:url(/global_files/icons/arrows/arrow_1_up.gif);
+	background-position:0 5px;
+}
+.canvas .widget.collapsed .toolbar .collapse
+{
+	background-position:0 -3px;
+	background-image:url(/global_files/icons/arrows/arrow_1_down.gif);
+}
+.canvas .widget .toolbar .settings
+{
+	background-image:url(/global_files/icons/symbols/gear_icon.png);
+}
+.canvas .widget .toolbar .close,
+.canvas .widget .toolbar .collapse,
+.canvas .widget .toolbar .settings
+{
+	color:#ccc;
+}
+.canvas .widget .toolbar .close:hover,
+.canvas .widget .toolbar .collapse:hover,
+.canvas .widget .toolbar .settings:hover
+{
+	background-color:#333;
+	color:#fff;
+}
+/* ~~~ widget_colors.css ~~~ */
+/* ~~~ colors, images ~~~ */
+
+.canvas .widget
+{
+	background-color:#fff;
+	color:#666;
+	border:1px solid #ccc;
+}
+.canvas .widget .head,
+.canvas .widget .settings .colors a
+{
+	background-color:#000000;
+background-image:none;
+	color:#fff;
+}
+.canvas .widget.c02 .head,
+.canvas .widget .settings .colors .c02
+{
+	background:url(/global_files/backgrounds/vgr/bg_vgr_orange_03.jpg) repeat-x #ab2e00;
+}
+.canvas .widget.c03 .head,
+.canvas .widget .settings .colors .c03
+{
+	background:url(/global_files/backgrounds/vgr/bg_vgr_green_02.jpg) repeat-x #096a01;
+}
+.canvas .widget .head h3,
+.canvas .widget .head h3 a
+{
+	color:#fff;
+}
+.canvas .widget .content
+{
+	background-color:#eee;
+	color:#666;
+}
+.canvas .widget .content .dialogNavDiv
+{
+	margin:0 0 10px 0;
+}
+.canvas .widget .typeImg li a.img,
+.canvas .widget .typeImg li a.nf
+{
+	background-color:#eee;
+}
+.canvas .widget .typeImg.typeIcon li
+{
+	border-bottom:1px solid #ccc;
+}
+.canvas .widget .typeIntro li
+{
+	border:1px solid #ccc;
+	background-color:#fff;
+}
+.canvas .widget .content ul li li
+{
+	padding-left:1em;
+}
+.canvas .widget .content ul fieldset
+{
+	background:#fff;
+	color:#666;
+	border:1px solid #ccc;
+}
+/* ~~~ floatTools.css ~~~ */
+.textCenter
+{
+    text-align:center;
+}
+.textLeft
+{
+    text-align:left;
+}
+.textRight
+{
+    text-align:right;
+}
+.left
+{
+    float:left;
+}
+.right
+{
+    float:right;
+}
+.clear
+{
+    clear:both;
+}
+.clearLeft
+{
+    clear:left;
+}
+.clearRight
+{
+    clear:right;
+}
+div.cleaner
+{
+    height:1px;
+    font-size:1px;
+    border:0px none;
+    background:transparent;
+    padding-bottom:1px;
+    margin-bottom:-1px;
+    clear:both;
+}
+/* ~~~ mainFontSet.css ~~~ */
+body
+{
+        font-family:helvetica, arial, sans-serif;
+        font-size:83%;
+}
+
+#sfsPositionPath,
+#sfsSearchBoxText,
+#sfsSearchBoxButton,
+#sfsFooter,
+.naviText, .fontFaceL
+{
+        font-size:0.85em;
+}
+.fontFaceBig
+{
+        font-size:1.25em;
+}
+
+h1, h2, #sfsContentIn div.headline
+{
+    line-height:1.2em;
+font-size:30px;
+font-family:Trebuchet MS,Helvetica,Arial,Verdana,sans-serif;
+}
+
+.sfsIntroContainer h2
+{
+    line-height:1.2em;
+    font-size:1em;
+}
+
+#sfsContentIn h3
+{
+    line-height:1.2em;
+    font-size:1.2em;
+}
+/* ~~~ btn.css ~~~ */
+.btn {
+  display: inline-block;
+  *display: inline;
+  padding: 4px 10px 4px;
+  margin-bottom: 0;
+  *margin-left: .3em;
+  font-size: 13px;
+  line-height: 18px;
+  *line-height: 20px;
+  color: #333333;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: #f5f5f5;
+  *background-color: #e6e6e6;
+  background-image: -ms-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+  background-repeat: repeat-x;
+  border: 1px solid #cccccc;
+  *border: 0;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+  border-bottom-color: #b3b3b3;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ffffff', endColorstr='#e6e6e6', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.btn:hover,
+.btn:active,
+.btn.active,
+.btn.disabled,
+.btn[disabled] {
+  background-color: #e6e6e6;
+  *background-color: #d9d9d9;
+}
+
+.btn:active,
+.btn.active {
+  background-color: #cccccc \9;
+}
+
+.btn:first-child {
+  *margin-left: 0;
+}
+
+.btn:hover {
+  color: #333333;
+  text-decoration: none;
+  background-color: #e6e6e6;
+  *background-color: #d9d9d9;
+  /* Buttons in IE7 don't get borders, so darken on hover */
+
+  background-position: 0 -15px;
+  -webkit-transition: background-position 0.1s linear;
+     -moz-transition: background-position 0.1s linear;
+      -ms-transition: background-position 0.1s linear;
+       -o-transition: background-position 0.1s linear;
+          transition: background-position 0.1s linear;
+}
+
+.btn:focus {
+  outline: thin dotted #333;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+.btn.active,
+.btn:active {
+  background-color: #e6e6e6;
+  background-color: #d9d9d9 \9;
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.btn.disabled,
+.btn[disabled] {
+  cursor: default;
+  background-color: #e6e6e6;
+  background-image: none;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+          box-shadow: none;
+}
+
+.btn-large {
+  padding: 9px 14px;
+  font-size: 15px;
+  line-height: normal;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+}
+
+.btn-large [class^="icon-"] {
+  margin-top: 1px;
+}
+
+.btn-small {
+  padding: 5px 9px;
+  font-size: 11px;
+  line-height: 16px;
+}
+
+.btn-small [class^="icon-"] {
+  margin-top: -1px;
+}
+
+.btn-mini {
+  padding: 2px 6px;
+  font-size: 11px;
+  line-height: 14px;
+}
+
+.btn-primary,
+.btn-primary:link,
+.btn-primary:hover,
+.btn-warning,
+.btn-warning:link,
+.btn-warning:hover,
+.btn-danger,
+.btn-danger:link,
+.btn-danger:hover,
+.btn-success,
+.btn-success:link,
+.btn-success:hover,
+.btn-info,
+.btn-info:link,
+.btn-info:hover,
+.btn-inverse,
+.btn-inverse:link,
+.btn-inverse:hover {
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.btn-primary.active,
+.btn-warning.active,
+.btn-danger.active,
+.btn-success.active,
+.btn-info.active,
+.btn-inverse.active {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.btn {
+  border-color: #ccc;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
+
+.btn-primary {
+  background-color: #0074cc;
+  *background-color: #0055cc;
+  background-image: -ms-linear-gradient(top, #0088cc, #0055cc);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0055cc));
+  background-image: -webkit-linear-gradient(top, #0088cc, #0055cc);
+  background-image: -o-linear-gradient(top, #0088cc, #0055cc);
+  background-image: -moz-linear-gradient(top, #0088cc, #0055cc);
+  background-image: linear-gradient(top, #0088cc, #0055cc);
+  background-repeat: repeat-x;
+  border-color: #0055cc #0055cc #003580;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#0088cc', endColorstr='#0055cc', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+  background-color: #0055cc;
+  *background-color: #004ab3;
+}
+
+.btn-primary:active,
+.btn-primary.active {
+  background-color: #004099 \9;
+}
+
+.btn-warning {
+  background-color: #faa732;
+  *background-color: #f89406;
+  background-image: -ms-linear-gradient(top, #fbb450, #f89406);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fbb450), to(#f89406));
+  background-image: -webkit-linear-gradient(top, #fbb450, #f89406);
+  background-image: -o-linear-gradient(top, #fbb450, #f89406);
+  background-image: -moz-linear-gradient(top, #fbb450, #f89406);
+  background-image: linear-gradient(top, #fbb450, #f89406);
+  background-repeat: repeat-x;
+  border-color: #f89406 #f89406 #ad6704;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fbb450', endColorstr='#f89406', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning.active,
+.btn-warning.disabled,
+.btn-warning[disabled] {
+  background-color: #f89406;
+  *background-color: #df8505;
+}
+
+.btn-warning:active,
+.btn-warning.active {
+  background-color: #c67605 \9;
+}
+
+.btn-danger {
+  background-color: #da4f49;
+  *background-color: #bd362f;
+  background-image: -ms-linear-gradient(top, #ee5f5b, #bd362f);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ee5f5b), to(#bd362f));
+  background-image: -webkit-linear-gradient(top, #ee5f5b, #bd362f);
+  background-image: -o-linear-gradient(top, #ee5f5b, #bd362f);
+  background-image: -moz-linear-gradient(top, #ee5f5b, #bd362f);
+  background-image: linear-gradient(top, #ee5f5b, #bd362f);
+  background-repeat: repeat-x;
+  border-color: #bd362f #bd362f #802420;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ee5f5b', endColorstr='#bd362f', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+
+.btn-danger:hover,
+.btn-danger:active,
+.btn-danger.active,
+.btn-danger.disabled,
+.btn-danger[disabled] {
+  background-color: #bd362f;
+  *background-color: #a9302a;
+}
+
+.btn-danger:active,
+.btn-danger.active {
+  background-color: #942a25 \9;
+}
+
+.btn-success {
+  background-color: #5bb75b;
+  *background-color: #51a351;
+  background-image: -ms-linear-gradient(top, #62c462, #51a351);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#62c462), to(#51a351));
+  background-image: -webkit-linear-gradient(top, #62c462, #51a351);
+  background-image: -o-linear-gradient(top, #62c462, #51a351);
+  background-image: -moz-linear-gradient(top, #62c462, #51a351);
+  background-image: linear-gradient(top, #62c462, #51a351);
+  background-repeat: repeat-x;
+  border-color: #51a351 #51a351 #387038;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#62c462', endColorstr='#51a351', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+
+.btn-success:hover,
+.btn-success:active,
+.btn-success.active,
+.btn-success.disabled,
+.btn-success[disabled] {
+  background-color: #51a351;
+  *background-color: #499249;
+}
+
+.btn-success:active,
+.btn-success.active {
+  background-color: #408140 \9;
+}
+
+.btn-info {
+  background-color: #49afcd;
+  *background-color: #2f96b4;
+  background-image: -ms-linear-gradient(top, #5bc0de, #2f96b4);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#5bc0de), to(#2f96b4));
+  background-image: -webkit-linear-gradient(top, #5bc0de, #2f96b4);
+  background-image: -o-linear-gradient(top, #5bc0de, #2f96b4);
+  background-image: -moz-linear-gradient(top, #5bc0de, #2f96b4);
+  background-image: linear-gradient(top, #5bc0de, #2f96b4);
+  background-repeat: repeat-x;
+  border-color: #2f96b4 #2f96b4 #1f6377;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#5bc0de', endColorstr='#2f96b4', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+
+.btn-info:hover,
+.btn-info:active,
+.btn-info.active,
+.btn-info.disabled,
+.btn-info[disabled] {
+  background-color: #2f96b4;
+  *background-color: #2a85a0;
+}
+
+.btn-info:active,
+.btn-info.active {
+  background-color: #24748c \9;
+}
+
+.btn-inverse {
+  background-color: #414141;
+  *background-color: #222222;
+  background-image: -ms-linear-gradient(top, #555555, #222222);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#555555), to(#222222));
+  background-image: -webkit-linear-gradient(top, #555555, #222222);
+  background-image: -o-linear-gradient(top, #555555, #222222);
+  background-image: -moz-linear-gradient(top, #555555, #222222);
+  background-image: linear-gradient(top, #555555, #222222);
+  background-repeat: repeat-x;
+  border-color: #222222 #222222 #000000;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#555555', endColorstr='#222222', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+
+.btn-inverse:hover,
+.btn-inverse:active,
+.btn-inverse.active,
+.btn-inverse.disabled,
+.btn-inverse[disabled] {
+  background-color: #222222;
+  *background-color: #151515;
+}
+
+.btn-inverse:active,
+.btn-inverse.active {
+  background-color: #080808 \9;
+}
+
+button.btn,
+input[type="submit"].btn {
+  *padding-top: 2px;
+  *padding-bottom: 2px;
+}
+
+button.btn::-moz-focus-inner,
+input[type="submit"].btn::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+button.btn.btn-large,
+input[type="submit"].btn.btn-large {
+  *padding-top: 7px;
+  *padding-bottom: 7px;
+}
+
+button.btn.btn-small,
+input[type="submit"].btn.btn-small {
+  *padding-top: 3px;
+  *padding-bottom: 3px;
+}
+
+button.btn.btn-mini,
+input[type="submit"].btn.btn-mini {
+  *padding-top: 1px;
+  *padding-bottom: 1px;
+}
+
+.btn-group {
+  position: relative;
+  display: inline-block;
+  *display: inline;
+  *margin-left: .3em;
+  font-size: 0;
+  white-space: nowrap;
+  vertical-align: middle;
+  *zoom: 1;
+}
+
+.btn-group:before,
+.btn-group:after {
+  display: table;
+  content: "";
+}
+
+.btn-group:after {
+  clear: both;
+}
+
+.btn-group:first-child {
+  *margin-left: 0;
+}
+
+.btn-group + .btn-group {
+  margin-left: 5px;
+}
+
+.btn-toolbar {
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+
+.btn-toolbar .btn-group {
+  display: inline-block;
+  *display: inline;
+  /* IE7 inline-block hack */
+
+  *zoom: 1;
+}
+
+.btn-group > .btn {
+  position: relative;
+  float: left;
+  margin-left: -1px;
+  -webkit-border-radius: 0;
+     -moz-border-radius: 0;
+          border-radius: 0;
+}
+
+.btn-group > .btn:first-child {
+  margin-left: 0;
+  -webkit-border-bottom-left-radius: 4px;
+          border-bottom-left-radius: 4px;
+  -webkit-border-top-left-radius: 4px;
+          border-top-left-radius: 4px;
+  -moz-border-radius-bottomleft: 4px;
+  -moz-border-radius-topleft: 4px;
+}
+
+.btn-group > .btn:last-child,
+.btn-group > .dropdown-toggle {
+  -webkit-border-top-right-radius: 4px;
+          border-top-right-radius: 4px;
+  -webkit-border-bottom-right-radius: 4px;
+          border-bottom-right-radius: 4px;
+  -moz-border-radius-topright: 4px;
+  -moz-border-radius-bottomright: 4px;
+}
+
+.btn-group > .btn.large:first-child {
+  margin-left: 0;
+  -webkit-border-bottom-left-radius: 6px;
+          border-bottom-left-radius: 6px;
+  -webkit-border-top-left-radius: 6px;
+          border-top-left-radius: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-topleft: 6px;
+}
+
+.btn-group > .btn.large:last-child,
+.btn-group > .large.dropdown-toggle {
+  -webkit-border-top-right-radius: 6px;
+          border-top-right-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+          border-bottom-right-radius: 6px;
+  -moz-border-radius-topright: 6px;
+  -moz-border-radius-bottomright: 6px;
+}
+
+.btn-group > .btn:hover,
+.btn-group > .btn:focus,
+.btn-group > .btn:active,
+.btn-group > .btn.active {
+  z-index: 2;
+}
+
+.btn-group .dropdown-toggle:active,
+.btn-group.open .dropdown-toggle {
+  outline: 0;
+}
+
+.btn-group > .dropdown-toggle {
+  *padding-top: 4px;
+  padding-right: 8px;
+  *padding-bottom: 4px;
+  padding-left: 8px;
+  -webkit-box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.125), inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.125), inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.125), inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.btn-group > .btn-mini.dropdown-toggle {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.btn-group > .btn-small.dropdown-toggle {
+  *padding-top: 4px;
+  *padding-bottom: 4px;
+}
+
+.btn-group > .btn-large.dropdown-toggle {
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.btn-group.open .dropdown-toggle {
+  background-image: none;
+  -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.btn-group.open .btn.dropdown-toggle {
+  background-color: #e6e6e6;
+}
+
+.btn-group.open .btn-primary.dropdown-toggle {
+  background-color: #0055cc;
+}
+
+.btn-group.open .btn-warning.dropdown-toggle {
+  background-color: #f89406;
+}
+
+.btn-group.open .btn-danger.dropdown-toggle {
+  background-color: #bd362f;
+}
+
+.btn-group.open .btn-success.dropdown-toggle {
+  background-color: #51a351;
+}
+
+.btn-group.open .btn-info.dropdown-toggle {
+  background-color: #2f96b4;
+}
+
+.btn-group.open .btn-inverse.dropdown-toggle {
+  background-color: #222222;
+}
+
+.btn .caret {
+  margin-top: 7px;
+  margin-left: 0;
+}
+
+.btn:hover .caret,
+.open.btn-group .caret {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.btn-mini .caret {
+  margin-top: 5px;
+}
+
+.btn-small .caret {
+  margin-top: 6px;
+}
+
+.btn-large .caret {
+  margin-top: 6px;
+  border-top-width: 5px;
+  border-right-width: 5px;
+  border-left-width: 5px;
+}
+
+.dropup .btn-large .caret {
+  border-top: 0;
+  border-bottom: 5px solid #000000;
+}
+
+.btn-primary .caret,
+.btn-warning .caret,
+.btn-danger .caret,
+.btn-info .caret,
+.btn-success .caret,
+.btn-inverse .caret {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+  opacity: 0.75;
+  filter: alpha(opacity=75);
+}
+
+/* **** ICONS **** */
+[class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("/global_files/icons/glyphicons/glyphicons-halflings.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+
+[class^="icon-"]:last-child,
+[class*=" icon-"]:last-child {
+  *margin-left: 0;
+}
+
+.icon-white {
+  background-image: url("/global_files/icons/glyphicons/glyphicons-halflings-white.png");
+}
+
+.icon-glass {
+  background-position: 0      0;
+}
+
+.icon-music {
+  background-position: -24px 0;
+}
+
+.icon-search {
+  background-position: -48px 0;
+}
+
+.icon-envelope {
+  background-position: -72px 0;
+}
+
+.icon-heart {
+  background-position: -96px 0;
+}
+
+.icon-star {
+  background-position: -120px 0;
+}
+
+.icon-star-empty {
+  background-position: -144px 0;
+}
+
+.icon-user {
+  background-position: -168px 0;
+}
+
+.icon-film {
+  background-position: -192px 0;
+}
+
+.icon-th-large {
+  background-position: -216px 0;
+}
+
+.icon-th {
+  background-position: -240px 0;
+}
+
+.icon-th-list {
+  background-position: -264px 0;
+}
+
+.icon-ok {
+  background-position: -288px 0;
+}
+
+.icon-remove {
+  background-position: -312px 0;
+}
+
+.icon-zoom-in {
+  background-position: -336px 0;
+}
+
+.icon-zoom-out {
+  background-position: -360px 0;
+}
+
+.icon-off {
+  background-position: -384px 0;
+}
+
+.icon-signal {
+  background-position: -408px 0;
+}
+
+.icon-cog {
+  background-position: -432px 0;
+}
+
+.icon-trash {
+  background-position: -456px 0;
+}
+
+.icon-home {
+  background-position: 0 -24px;
+}
+
+.icon-file {
+  background-position: -24px -24px;
+}
+
+.icon-time {
+  background-position: -48px -24px;
+}
+
+.icon-road {
+  background-position: -72px -24px;
+}
+
+.icon-download-alt {
+  background-position: -96px -24px;
+}
+
+.icon-download {
+  background-position: -120px -24px;
+}
+
+.icon-upload {
+  background-position: -144px -24px;
+}
+
+.icon-inbox {
+  background-position: -168px -24px;
+}
+
+.icon-play-circle {
+  background-position: -192px -24px;
+}
+
+.icon-repeat {
+  background-position: -216px -24px;
+}
+
+.icon-refresh {
+  background-position: -240px -24px;
+}
+
+.icon-list-alt {
+  background-position: -264px -24px;
+}
+
+.icon-lock {
+  background-position: -287px -24px;
+}
+
+.icon-flag {
+  background-position: -312px -24px;
+}
+
+.icon-headphones {
+  background-position: -336px -24px;
+}
+
+.icon-volume-off {
+  background-position: -360px -24px;
+}
+
+.icon-volume-down {
+  background-position: -384px -24px;
+}
+
+.icon-volume-up {
+  background-position: -408px -24px;
+}
+
+.icon-qrcode {
+  background-position: -432px -24px;
+}
+
+.icon-barcode {
+  background-position: -456px -24px;
+}
+
+.icon-tag {
+  background-position: 0 -48px;
+}
+
+.icon-tags {
+  background-position: -25px -48px;
+}
+
+.icon-book {
+  background-position: -48px -48px;
+}
+
+.icon-bookmark {
+  background-position: -72px -48px;
+}
+
+.icon-print {
+  background-position: -96px -48px;
+}
+
+.icon-camera {
+  background-position: -120px -48px;
+}
+
+.icon-font {
+  background-position: -144px -48px;
+}
+
+.icon-bold {
+  background-position: -167px -48px;
+}
+
+.icon-italic {
+  background-position: -192px -48px;
+}
+
+.icon-text-height {
+  background-position: -216px -48px;
+}
+
+.icon-text-width {
+  background-position: -240px -48px;
+}
+
+.icon-align-left {
+  background-position: -264px -48px;
+}
+
+.icon-align-center {
+  background-position: -288px -48px;
+}
+
+.icon-align-right {
+  background-position: -312px -48px;
+}
+
+.icon-align-justify {
+  background-position: -336px -48px;
+}
+
+.icon-list {
+  background-position: -360px -48px;
+}
+
+.icon-indent-left {
+  background-position: -384px -48px;
+}
+
+.icon-indent-right {
+  background-position: -408px -48px;
+}
+
+.icon-facetime-video {
+  background-position: -432px -48px;
+}
+
+.icon-picture {
+  background-position: -456px -48px;
+}
+
+.icon-pencil {
+  background-position: 0 -72px;
+}
+
+.icon-map-marker {
+  background-position: -24px -72px;
+}
+
+.icon-adjust {
+  background-position: -48px -72px;
+}
+
+.icon-tint {
+  background-position: -72px -72px;
+}
+
+.icon-edit {
+  background-position: -96px -72px;
+}
+
+.icon-share {
+  background-position: -120px -72px;
+}
+
+.icon-check {
+  background-position: -144px -72px;
+}
+
+.icon-move {
+  background-position: -168px -72px;
+}
+
+.icon-step-backward {
+  background-position: -192px -72px;
+}
+
+.icon-fast-backward {
+  background-position: -216px -72px;
+}
+
+.icon-backward {
+  background-position: -240px -72px;
+}
+
+.icon-play {
+  background-position: -264px -72px;
+}
+
+.icon-pause {
+  background-position: -288px -72px;
+}
+
+.icon-stop {
+  background-position: -312px -72px;
+}
+
+.icon-forward {
+  background-position: -336px -72px;
+}
+
+.icon-fast-forward {
+  background-position: -360px -72px;
+}
+
+.icon-step-forward {
+  background-position: -384px -72px;
+}
+
+.icon-eject {
+  background-position: -408px -72px;
+}
+
+.icon-chevron-left {
+  background-position: -432px -72px;
+}
+
+.icon-chevron-right {
+  background-position: -456px -72px;
+}
+
+.icon-plus-sign {
+  background-position: 0 -96px;
+}
+
+.icon-minus-sign {
+  background-position: -24px -96px;
+}
+
+.icon-remove-sign {
+  background-position: -48px -96px;
+}
+
+.icon-ok-sign {
+  background-position: -72px -96px;
+}
+
+.icon-question-sign {
+  background-position: -96px -96px;
+}
+
+.icon-info-sign {
+  background-position: -120px -96px;
+}
+
+.icon-screenshot {
+  background-position: -144px -96px;
+}
+
+.icon-remove-circle {
+  background-position: -168px -96px;
+}
+
+.icon-ok-circle {
+  background-position: -192px -96px;
+}
+
+.icon-ban-circle {
+  background-position: -216px -96px;
+}
+
+.icon-arrow-left {
+  background-position: -240px -96px;
+}
+
+.icon-arrow-right {
+  background-position: -264px -96px;
+}
+
+.icon-arrow-up {
+  background-position: -289px -96px;
+}
+
+.icon-arrow-down {
+  background-position: -312px -96px;
+}
+
+.icon-share-alt {
+  background-position: -336px -96px;
+}
+
+.icon-resize-full {
+  background-position: -360px -96px;
+}
+
+.icon-resize-small {
+  background-position: -384px -96px;
+}
+
+.icon-plus {
+  background-position: -408px -96px;
+}
+
+.icon-minus {
+  background-position: -433px -96px;
+}
+
+.icon-asterisk {
+  background-position: -456px -96px;
+}
+
+.icon-exclamation-sign {
+  background-position: 0 -120px;
+}
+
+.icon-gift {
+  background-position: -24px -120px;
+}
+
+.icon-leaf {
+  background-position: -48px -120px;
+}
+
+.icon-fire {
+  background-position: -72px -120px;
+}
+
+.icon-eye-open {
+  background-position: -96px -120px;
+}
+
+.icon-eye-close {
+  background-position: -120px -120px;
+}
+
+.icon-warning-sign {
+  background-position: -144px -120px;
+}
+
+.icon-plane {
+  background-position: -168px -120px;
+}
+
+.icon-calendar {
+  background-position: -192px -120px;
+}
+
+.icon-random {
+  background-position: -216px -120px;
+}
+
+.icon-comment {
+  background-position: -240px -120px;
+}
+
+.icon-magnet {
+  background-position: -264px -120px;
+}
+
+.icon-chevron-up {
+  background-position: -288px -120px;
+}
+
+.icon-chevron-down {
+  background-position: -313px -119px;
+}
+
+.icon-retweet {
+  background-position: -336px -120px;
+}
+
+.icon-shopping-cart {
+  background-position: -360px -120px;
+}
+
+.icon-folder-close {
+  background-position: -384px -120px;
+}
+
+.icon-folder-open {
+  background-position: -408px -120px;
+}
+
+.icon-resize-vertical {
+  background-position: -432px -119px;
+}
+
+.icon-resize-horizontal {
+  background-position: -456px -118px;
+}
+
+.icon-hdd {
+  background-position: 0 -144px;
+}
+
+.icon-bullhorn {
+  background-position: -24px -144px;
+}
+
+.icon-bell {
+  background-position: -48px -144px;
+}
+
+.icon-certificate {
+  background-position: -72px -144px;
+}
+
+.icon-thumbs-up {
+  background-position: -96px -144px;
+}
+
+.icon-thumbs-down {
+  background-position: -120px -144px;
+}
+
+.icon-hand-right {
+  background-position: -144px -144px;
+}
+
+.icon-hand-left {
+  background-position: -168px -144px;
+}
+
+.icon-hand-up {
+  background-position: -192px -144px;
+}
+
+.icon-hand-down {
+  background-position: -216px -144px;
+}
+
+.icon-circle-arrow-right {
+  background-position: -240px -144px;
+}
+
+.icon-circle-arrow-left {
+  background-position: -264px -144px;
+}
+
+.icon-circle-arrow-up {
+  background-position: -288px -144px;
+}
+
+.icon-circle-arrow-down {
+  background-position: -312px -144px;
+}
+
+.icon-globe {
+  background-position: -336px -144px;
+}
+
+.icon-wrench {
+  background-position: -360px -144px;
+}
+
+.icon-tasks {
+  background-position: -384px -144px;
+}
+
+.icon-filter {
+  background-position: -408px -144px;
+}
+
+.icon-briefcase {
+  background-position: -432px -144px;
+}
+
+.icon-fullscreen {
+  background-position: -456px -144px;
+}

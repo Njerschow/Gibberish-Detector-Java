@@ -1,0 +1,531 @@
+    { // encoding issue XXX
+        "first_name": "Hiáşżu",
+        "last_name": "Nguyáťn HoĂ ng",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "ÄáťŠc",
+        "last_name": "Nguyáťn HoĂ ng",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Ăn",
+        "last_name": "Äáť Tráťng",
+        "last_name_group": "Äáť",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "ThĂ´ng",
+        "last_name": "LĂŞ ÄáťŠc",
+        "last_name_group": "LĂŞ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Quáťc",
+        "last_name": "Phan ThiĂŞn",
+        "last_name_group": "Phan",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "QuĂ˝",
+        "last_name": "Nguyáťn HĂšng",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "HĂšng",
+        "last_name": "Nguyáťn Sáťš",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Háťng",
+        "last_name": "LĂŞ VĂľ Thanh",
+        "last_name_group": "LĂŞ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Long",
+        "last_name": "Äáşˇng VĹŠ HáşŁi",
+        "last_name_group": "Äáşˇng",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "KhĂĄnh",
+        "last_name": "Tráş§n Ngáťc",
+        "last_name_group": "Tráş§n",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "PhĆ°áťc",
+        "last_name": "Tráş§n TĂ˘n",
+        "last_name_group": "Tráş§n",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Nam",
+        "last_name": "Nguyáťn VÄn",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Huy",
+        "last_name": "NgĂ´ Quáťc",
+        "last_name_group": "NgĂ´",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "ToĂ n",
+        "last_name": "Nguyáťn BáşŁo",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "HĂšng",
+        "last_name": "Äáşˇng VÄn",
+        "last_name_group": "Äáşˇng",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "LĂ˝",
+        "last_name": "VĹŠ VÄn",
+        "last_name_group": "VĹŠ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "NguyĂŞn",
+        "last_name": "ÄĂ o Anh",
+        "last_name_group": "ÄĂ o",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Thu",
+        "last_name": "BĂši VÄn",
+        "last_name_group": "BĂši",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Anh",
+        "last_name": "Nguyáťn Tháşż",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "HoĂ ng",
+        "last_name": "VĹŠ VÄn",
+        "last_name_group": "VĹŠ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "HĆ°ng",
+        "last_name": "Nguyáťn ThĂ nh",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Khoa",
+        "last_name": "TrĆ°ĆĄng ÄÄng",
+        "last_name_group": "TrĆ°ĆĄng",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "TĂ i",
+        "last_name": "Äinh VÄn",
+        "last_name_group": "Äinh",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "CĆ°áťng",
+        "last_name": "PháşĄm KháşŻc",
+        "last_name_group": "PháşĄm",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "TháşĄch",
+        "last_name": "LĂŞ Ngáťc",
+        "last_name_group": "LĂŞ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Long",
+        "last_name": "Nguyáťn HoĂ ng",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Ngáťc",
+        "last_name": "VĹŠ Tháť",
+        "last_name_group": "VĹŠ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "NhĂ˘n",
+        "last_name": "LĂ˝ Tráťng",
+        "last_name_group": "LĂ˝",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "PhĂšng",
+        "last_name": "PháşĄm ÄáťŠc",
+        "last_name_group": "PháşĄm",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "PhĆ°ĆĄng",
+        "last_name": "Nguyáťn Viáťt",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "PhĆ°ĆĄng",
+        "last_name": "ThĂĄi ÄáťŠc",
+        "last_name_group": "ThĂĄi",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Sang",
+        "last_name": "LÄng HoĂ i",
+        "last_name_group": "LÄng",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "ÄáşĄt",
+        "last_name": "HoĂ ng Tiáşżn",
+        "last_name_group": "HoĂ ng",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "ÄáťŠc",
+        "last_name": "Nguyáťn Trung",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "ÄĂ´ng",
+        "last_name": "MĂŁ Tháť",
+        "last_name_group": "MĂŁ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Hoa",
+        "last_name": "Nguyáťn Tháť",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "HĂšng",
+        "last_name": "TrĆ°ĆĄng Tráťng",
+        "last_name_group": "TrĆ°ĆĄng",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "TuáşĽn",
+        "last_name": "LĂŞ Tráťng",
+        "last_name_group": "LĂŞ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Uy",
+        "last_name": "Nguyáťn VÄn",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "VĆ°ĆĄng",
+        "last_name": "ÄĂ o Duy",
+        "last_name_group": "ÄĂ o",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Duy",
+        "last_name": "Nguyáťn Tráş§n",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "DĆ°ĆĄng",
+        "last_name": "Tráş§n ÄáşĄi",
+        "last_name_group": "Tráş§n",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "HĂ o",
+        "last_name": "NgĂ´ VÄn",
+        "last_name_group": "NgĂ´",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "TrĆ°áťng",
+        "last_name": "NgĂ´ Hiáşżu",
+        "last_name_group": "NgĂ´",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Khoa",
+        "last_name": "Nguyáťn HáşŁi ÄÄng",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "NghÄŠa",
+        "last_name": "Huáťłnh Tráťng",
+        "last_name_group": "Huáťłnh",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "BÄng",
+        "last_name": "Äinh Nháş­t",
+        "last_name_group": "Äinh",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "CĆ°áťng",
+        "last_name": "Nguyáťn Sáťš MáşĄnh",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Thuáş­n",
+        "last_name": "Nguyáťn PhĂş",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "TĂšng",
+        "last_name": "Nguyáťn Duy",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Luyáşżn",
+        "last_name": "Äáşˇng Tháť Kim",
+        "last_name_group": "Äáşˇng",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Long",
+        "last_name": "Phan ÄĂŹnh Minh",
+        "last_name_group": "Phan",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "PhĂşc",
+        "last_name": "Huáťłnh ÄoĂ n HáťŻu",
+        "last_name_group": "Huáťłnh",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Hiáşżu",
+        "last_name": "VĂľ VÄn",
+        "last_name_group": "VĂľ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "TuáşĽn",
+        "last_name": "TÄng BĂĄ",
+        "last_name_group": "TÄng",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "TuáşĽn",
+        "last_name": "Nguyáťn Tráťng",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Láťc",
+        "last_name": "Nguyáťn Viáşżt",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Hiáťn",
+        "last_name": "Äinh CĂ´ng Vinh",
+        "last_name_group": "Äinh",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Hiáťn",
+        "last_name": "GiĂĄp VÄn",
+        "last_name_group": "GiĂĄp",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "TĂšng",
+        "last_name": "Nguyáťn Tráťnh",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Tuyáşżt",
+        "last_name": "Nguyáťn Tháť",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Quang",
+        "last_name": "Nguyáťn VÄn",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "SĆĄn",
+        "last_name": "ChĂ˘u Ngáťc ThĂĄi",
+        "last_name_group": "ChĂ˘u",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "TĂ˘n",
+        "last_name": "Nguyáťn Tráş§n Minh",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "BáşŻc",
+        "last_name": "Tráş§n Ngáťc",
+        "last_name_group": "Tráş§n",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Khoa",
+        "last_name": "Nguyáťn VÄn",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "NguyĂŞn",
+        "last_name": "Nguyáťn LĂŞ ThĂĄi",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "NhĂ˘n",
+        "last_name": "Nguyáťn Thiáťn",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "ÄĂ´ng",
+        "last_name": "VĂľ VÄn",
+        "last_name_group": "VĂľ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Huy",
+        "last_name": "Tráťnh Thanh",
+        "last_name_group": "Tráťnh",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "KhĂ´i",
+        "last_name": "Äáť ÄáťŠc",
+        "last_name_group": "Äáť",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Äáťnh",
+        "last_name": "Nguyáťn XuĂ˘n",
+        "last_name_group": "Nguyáťn",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "HĆ°áťng",
+        "last_name": "TrĆ°ĆĄng Quáťc",
+        "last_name_group": "TrĆ°ĆĄng",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Táťnh",
+        "last_name": "PháşĄm Quáťc",
+        "last_name_group": "PháşĄm",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "Tráťng",
+        "last_name": "LĂŞ VÄn Hiáşżu",
+        "last_name_group": "LĂŞ",
+        "gender": ""
+    },
+--
+    { // encoding issue XXX
+        "first_name": "ThĂ nh",
+        "last_name": "Phan TrĆ°áťng",
+        "last_name_group": "Phan",
+        "gender": ""
+    },

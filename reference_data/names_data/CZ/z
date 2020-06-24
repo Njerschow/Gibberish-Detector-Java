@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="cs" xmlns:fb="http://ogp.me/ns/fb#">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+        <meta name="robots" content="index, follow" />
+        <meta name="author" content="Ondřej Malačka, Jan Samek" />
+        <title>Jméno | Khdr: 0 | KdeJsme.cz | Četnost příjmení nebo jména v České republice</title>
+        <meta name="keywords" content="Khdr, příjmení, jména, křestní jméno, četnost příjmení, četnost jména, okresy příjmení, obce příjmení" />
+        <meta name="description" content="Jméno: &#039;Khdr&#039;, počet výskytů 0 v celé ČR | Chcete zjistit četnost vašeho příjmení nebo křestního jména v České republice? Je vaše příjmení či křestní jméno unikatní?" />
+        <meta property="og:title" content="Jméno | Khdr: 0 | KdeJsme.cz | Četnost příjmení nebo jména v České republice" />
+        <meta property="og:image" content="https://www.kdejsme.cz/images/kdejsme.jpg" />
+        <meta property="og:description" content="Jméno: &#039;Khdr&#039;, počet výskytů 0 v celé ČR | Chcete zjistit četnost vašeho příjmení nebo křestního jména v České republice? Je vaše příjmení či křestní jméno unikatní?" />			
+        <link rel="stylesheet" type="text/css" media="all" href="/css/site.css" />
+        <link rel="stylesheet" type="text/css" media="all" href="/css/banner.css" />
+        <link rel="stylesheet" type="text/css" media="all" href="/css/custom.css" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+
+		
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.nette.js"></script>
+        <script type="text/javascript" src="/js/jquery.ajaxform.js"></script>
+        <script type="text/javascript" src="/js/ajax.js"></script>
+        <script type="text/javascript" src="/js/netteForms.js"></script>
+        <script type="text/javascript" src="/js/maphilight.js"></script>
+        <script type="text/javascript" src="/js/functions.js"></script>
+		<script type="text/javascript" src="//connect.facebook.net/cs_CZ/all.js#xfbml=1"></script>
+    </head>
+    <body>
+        <div id="page">
+            <div id="top">
+                <h2>Zadejte příjmení nebo jméno zjistěte jeho četnost</h2>
+                <div id="logo">
+                    <div id="image">
+                        <a href="/"></a>
+                    </div>
+
+                </div>
+
+                <div id="search_form">
+<div id="snippet--hledani">                    <ul id="search" style="position:relative">
+
+                        <li class="search_type  ">
+                            <a hledani="prijmeni" class="ajax" href="/jmeno/Khdr/?hledani=prijmeni&amp;do=hledani">Příjmení</a>
+                        </li>
+                        <li class="search_type  active">
+                            <a hledani="jmeno" class="ajax" href="/jmeno/Khdr/?hledani=jmeno&amp;do=hledani">Jméno</a>
+                        </li>
+                    </ul>
+</div>                    <div id="search_inner">
+<form action="/jmeno/Khdr/?do=form-submit" method="post" id="frm-form">
+                        <input type="text" title="Hledané jméno" class="text" name="what" id="frmform-what" required="required" data-nette-rules="{op:':filled',msg:&quot;Zadejte \u0159et\u011bzec k vyhled\u00e1n\u00ed.&quot;}" value="Khdr" />
+
+                        <input type="submit" class="button" name="search" id="frmform-search" value="Vyhledat" />
+
+<div><input type="hidden" name="_token_" id="frmform-_token_" value="7dsb71idf1" /></div>
+</form>
+                    </div>
+                    <ul id="search2" style="position:relative">
+
+                        <li class="search_type2 active2">
+                            <a zobrazit="hustota" class="ajax" href="/jmeno/Khdr/hustota/?do=zobrazit">Hustota</a>
+                        </li>
+                        <li class="search_type2  ">
+                            <a zobrazit="pocet" class="ajax" href="/jmeno/Khdr/pocet/?do=zobrazit">Počet</a>
+                        </li>
+                    </ul>
+
+                </div>
+                <div id="mainMenu">
+                    <ul>
+                        <li><a href="/" >Domů</a></li>
+                        <li><a href="/clanky" >Novinky</a></li>
+                        <li><a href="/seznam/" >Seznamy</a></li>
+                        <li><a href="/o-projektu" >O webu</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div id="left">
+                <div id="left_top">
+<div class="prehledova_tabulka">
+    <table>
+        <caption>Khdr (0)</caption>
+        <tr>
+            <th><abbr title="Obec s rozšířenou působností">Obec s RP</abbr></th>
+            <th>Počet</th>
+            <th>Každý X-tý</th>
+        </tr>
+    </table>
+</div>
+<div class="prehledova_tabulka_bottom">
+    <a href="#" onclick="cela_tabulka();return false;">více ...</a>
+</div>
+                </div>
+                <div id="left_bottom">
+    <div class="b600">
+		<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-6514354968523540";
+		google_ad_slot = "1586608578";
+		google_ad_width = 160;
+		google_ad_height = 600;
+		//-->
+		</script>
+		<script type="text/javascript"src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	</div>
+                </div>
+            </div>
+            <div id="middleRight">
+<div id="mapOuter">
+    <div id="mapTitle">
+        <h1>Zadané jméno 'Khdr' nenalezeno.</h1> 
+    </div>
+</div>
+                <div id="middle">
+                    <div id="flashes">
+<div id="snippet--flashes"></div>                    </div>
+
+<div class="zajimavosti">
+    Požadované <strong>křestní jméno "Khdr"</strong> nebylo pro zvolený rok nalezeno. Můžete zkusit následující:
+    <ul>
+        <li>vyhledat <a href="/prijmeni/Khdr/hustota/">příjmení "Khdr"</a>,</li>
+        <li>zkusit vyhledat jméno v <a href="/seznam/">seznamu všech jmen dle abecedy</a>,</li>
+        <li>vrátit se na <a href="/">úvodní stránku</a>.
+    </ul>
+    <br />
+
+    Historický vývoj četnosti křestního jména "<strong>Khdr</strong>":
+    <ul>
+        <li><strong>2010</strong>: Počet výskytů <a href="/jmeno/Khdr/hustota/2010" title="Jméno Khdr v roce 2010">jména "Khdr" v roce 2010</a>: <strong>1</strong> v celé ČR</li>
+        <li><strong>2011</strong>: Počet výskytů <a href="/jmeno/Khdr/hustota/2011" title="Jméno Khdr v roce 2011">jména "Khdr" v roce 2011</a>: <strong>1</strong> v celé ČR</li>
+    </ul>
+</div>
+                </div>
+                <div id="right">
+<div class="slevomat">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6514354968523540";
+/* KdeJsme.cz (sub-page prava) 300x250 */
+google_ad_slot = "2413328170";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+                    
+                    <div class="odkazy">
+                        <h2>Další zajímavé stránky</h2>
+                        <br />
+                        <a target="_blank" href="http://www.seznamka-pro-seniory.cz" title="seznamka pro seniory"><img src="/images/seznamka-pro-seniory.png" alt="seznamka-pro-seniory.cz" /></a>
+                        <br />
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="clear"></div>
+            <div id="bottom">
+                <div id="bottomLeft">
+                    <ul>
+                        <li><a href="/o-projektu">O projektu KdeJsme.cz</a></li>
+                        <li><a href="/napsali-o-nas">Napsali o nás</a></li>
+                    </ul>
+                </div>
+                <div id="bottomRight">
+                    <a href="http://www.malacka.cz" title="malacka.cz"><img src="/images/created.jpg" alt="Created by Ondrej Malacka / malacka.cz" /></a>
+                </div>
+            </div>
+
+
+        </div>
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-17787601-4']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+    </body>
+</html>

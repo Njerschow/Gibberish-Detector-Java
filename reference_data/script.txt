@@ -1,0 +1,223 @@
+ARABIC
+Algeria (DZ): Latn, Arab
+Bahrain (BH): Latn, Arab
+Egypt (EG): Latn, Arab
+Jordan (JO): Latn, Arab
+Kuwait (KW): Latn, Arab
+Morocco (MA): Latn, Arab
+Oman (OM): Latn, Arab
+Qatar (QA): Latn, Arab
+Saudi Arabia (SA): Latn, Arab
+Tunisia (TN): Latn, Arab
+United Arab Emirates (AE): Latn, Arab
+Yemen (YE): Latn, Arab
+
+CYRILLIC
+Armenia (AM): Latn, Cyrl
+Azerbaijan Republic (AZ): Latn
+Belarus (BY): Latn, Cyrl, Cyrl
+Bosnia and Herzegovina (BA): Latn, Cyrl
+Bulgaria  (BG): Latn, Cyrl
+Estonia  (EE): Latn, Cyrl
+Kazakhstan (KZ): Latn, Cyrl
+Kyrgyzstan (KG): Latn, Cyrl
+Latvia  (LV): Latn, Cyrl
+Lithuania  (LT): Latn, Cyrl
+Macedonia  (MK): Latn, Cyrl
+Mongolia (MN): Latn, Cyrl
+Montenegro (ME): Latn, Cyrl
+Russia (RU): Latn, Cyrl
+Serbia (RS): Latn, Cyrl
+Tajikistan (TJ): Latn, Cyrl
+Turkmenistan (TM): Latn, Cyrl
+Ukraine (UA): Latn, Cyrl
+
+CHINESE Simplified
+China (C2): Latn, Hans
+China (CN): Latn, Hans
+Singapore (SG): Latn, Hans
+
+CHINESE Traditional
+Hong Kong (HK): Latn, Hant
+Taiwan (TW): Latn, Hant
+
+GREEK
+Greece  (GR): Latn, Grek
+
+HEBREW
+Israel (IL): Latn, Hebr
+
+JAPANESE
+Japan (JP): Latn, Jpan
+
+KOREAN
+South Korea (KR): Latn, Kore
+
+THAI
+Thailand (TH): Latn, Thai
+
+Only LATIN
+Albania (AL): Latn
+Andorra (AD): Latn
+Angola (AO): Latn
+Anguilla (AI): Latn
+Antigua and Barbuda (AG): Latn
+Argentina (AR): Latn
+Aruba (AW): Latn
+Australia (AU): Latn
+Austria (AT): Latn
+Bahamas (BS): Latn
+Barbados (BB): Latn
+Belgium (BE): Latn
+Belize (BZ): Latn
+Benin (BJ): Latn
+Bermuda (BM): Latn
+Bhutan (BT): Latn
+Bolivia (BO): Latn
+Botswana (BW): Latn
+Brazil (BR): Latn
+Brunei Darussalam (BN): Latn
+Burkina Faso (BF): Latn
+Burundi (BI): Latn
+Cambodia (KH): Latn
+Cameroon (CM): Latn
+Canada (CA): Latn
+Cape Verde (CV): Latn
+Cayman Islands (KY): Latn
+Chad (TD): Latn
+Chile (CL): Latn
+Colombia (CO): Latn
+Comoros (KM): Latn
+Congo (Democratic Republic of) (CD): Latn
+Congo (Republic of) (CG): Latn
+Cook Islands (CK): Latn
+Costa Rica (CR): Latn
+Croatia (HR): Latn
+Cyprus  (CY): Latn
+Czech Republic  (CZ): Latn
+Côte d'Ivoire (CI): Latn
+Denmark (DK): Latn
+Djibouti (DJ): Latn
+Dominica (DM): Latn
+Dominican Republic (DO): Latn
+Ecuador (EC): Latn
+El Salvador (SV): Latn
+Eritrea (ER): Latn
+Ethiopia (ET): Latn
+Falkland Islands (FK): Latn
+Faroe Islands (FO): Latn
+Federated States Of Micronesia (FM): Latn
+Fiji (FJ): Latn
+Finland  (FI): Latn
+France (FR): Latn
+French Guiana (GF): Latn
+Gabon Republic (GA): Latn
+Gambia (GM): Latn
+Georgia (GE): Latn
+Germany (DE): Latn
+Gibraltar  (GI): Latn
+Greenland (GL): Latn
+Grenada (GD): Latn
+Guadeloupe (GP): Latn
+Guatemala (GT): Latn
+Guinea-Bissau (GW): Latn
+Guinea (GN): Latn
+Guyana (GY): Latn
+Honduras (HN): Latn
+Hungary  (HU): Latn
+Iceland (IS): Latn
+India (IN): Latn
+Indonesia (ID): Latn
+Ireland  (IE): Latn
+Italy (IT): Latn
+Jamaica (JM): Latn
+Kenya (KE): Latn
+Kiribati (KI): Latn
+Laos (LA): Latn
+Lesotho (LS): Latn
+Liechtenstein  (LI): Latn
+Luxembourg  (LU): Latn
+Madagascar (MG): Latn
+Malawi (MW): Latn
+Malaysia (MY): Latn
+Maldives (MV): Latn
+Mali (ML): Latn
+Malta  (MT): Latn
+Marshall Islands (MH): Latn
+Martinique (MQ): Latn
+Mauritania (MR): Latn
+Mauritius (MU): Latn
+Mayotte (YT): Latn
+Mexico (MX): Latn
+Moldova  (MD): Latn
+Monaco (MC): Latn
+Montserrat (MS): Latn
+Mozambique (MZ): Latn
+Namibia (NA): Latn
+Nauru (NR): Latn
+Nepal (NP): Latn
+Netherlands (NL): Latn
+Netherlands Antilles (AN): Latn
+New Caledonia (NC): Latn
+New Zealand (NZ): Latn
+Nicaragua (NI): Latn
+Niger (NE): Latn
+Nigeria   (NG): Latn
+Niue (NU): Latn
+Norfolk Island (NF): Latn
+Norway (NO): Latn
+Palau (PW): Latn
+Panama (PA): Latn
+Papua New Guinea (PG): Latn
+Paraguay (PY): Latn
+Peru (PE): Latn
+Philippines (PH): Latn
+Pitcairn Islands (PN): Latn
+Poland (PL): Latn
+Portugal  (PT): Latn
+Reunion (RE): Latn
+Romania  (RO): Latn
+Rwanda (RW): Latn
+Samoa (WS): Latn
+San Marino (SM): Latn
+Sao Tome and Principe (ST): Latn
+Senegal (SN): Latn
+Seychelles (SC): Latn
+Sierra Leone (SL): Latn
+Slovakia  (SK): Latn
+Slovenia  (SI): Latn
+Solomon Islands (SB): Latn
+Somalia (SO): Latn
+South Africa (ZA): Latn
+Spain (ES): Latn
+Sri Lanka (LK): Latn
+St Helena (SH): Latn
+St Kitts and Nevis (KN): Latn
+St Lucia (LC): Latn
+St Pierre and Miquelon (PM): Latn
+St Vincent and the Grenadines (VC): Latn
+Suriname (SR): Latn
+Svalbard and Jan Mayen (SJ): Latn
+Swaziland (SZ): Latn
+Sweden (SE): Latn
+Switzerland (CH): Latn
+Tanzania (TZ): Latn
+Togo (TG): Latn
+Tonga (TO): Latn
+Trinidad and Tobago (TT): Latn
+Turkey (TR): Latn
+Turks and Caicos Islands (TC): Latn
+Tuvalu (TV): Latn
+Uganda (UG): Latn
+United Kingdom (GB): Latn
+United States (US): Latn
+Uruguay (UY): Latn
+Vanuatu (VU): Latn
+Vatican City (VA): Latn
+Venezuela (VE): Latn
+Viet Nam (VN): Latn
+Virgin Islands British (VG): Latn
+Wallis and Futuna Islands (WF): Latn
+Zambia (ZM): Latn
+Zimbabwe (ZW): Latn
+

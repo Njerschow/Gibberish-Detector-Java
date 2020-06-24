@@ -1,0 +1,341 @@
+
+		
+	
+.cf {
+  *zoom: 1;
+}
+.cf:before,
+.cf:after {
+  display: table;
+  content: "";
+}
+.cf:after {
+  clear: both;
+}
+.ajax-upload-button {
+  width: 200px;
+  height: 200px;
+}
+.soft {
+  color: #666666;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+}
+.soft .title {
+  color: #666666;
+  font-family: Myriad Pro, Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  line-height: 120%;
+  margin-bottom: 20px;
+}
+.soft .title .highlight {
+  color: #be1e2d;
+}
+.soft p {
+  font-weight: bold;
+}
+.soft .HRCategories {
+  font-size: 12px;
+}
+.subscriptions label {
+  *zoom: 1;
+  display: block;
+}
+.subscriptions label:before,
+.subscriptions label:after {
+  display: table;
+  content: "";
+}
+.subscriptions label:after {
+  clear: both;
+}
+.subscriptions label input {
+  float: left;
+}
+.subscriptions label span.input_lbl {
+  float: left;
+  width: 500px;
+  margin-left: 5px;
+}
+.category_list {
+  width: 400px;
+}
+.category_list label {
+  display: block;
+}
+.category_list .category_search {
+  margin-bottom: 10px;
+}
+.category_list .category_search input {
+  width: 100%;
+}
+.category_list ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.category_list ul li ul {
+  font-size: 0.9em;
+  margin-left: 5px;
+}
+.category_list ul li input {
+  float: left;
+  margin: 0 2px 0 0;
+  width: 10px;
+}
+.category_list ul li div {
+  float: left;
+  width: 90%;
+}
+.prof_img_choice .prof_img {
+  border: 1px solid lightblue;
+  border-radius: 3px;
+  padding: 5px;
+  height: 100px;
+  cursor: pointer;
+  margin-right: 10px;
+  float: left;
+}
+.prof_img_choice .prof_img:hover {
+  border: 1px solid #be1e2d;
+  box-shadow: 3px 3px 10px lightgrey;
+}
+.prof_img_choice .prof_img img {
+  height: 100%;
+}
+.prof_img_choice .prof_img .qq-uploader .qq-upload-button {
+  height: 100%;
+}
+.prof_img_choice .prof_img .qq-uploader .qq-upload-list {
+  display: none;
+}
+.social_connect .connect_facebook,
+.social_connect .connect_linkedin,
+.social_connect .connect_twitter {
+  display: none;
+}
+#choose_company #company_search_inp {
+  border: 1px solid #D3D3D3;
+  padding: 5px;
+  width: 300px;
+  font-size: 1.2em;
+}
+#choose_company #company_search_res {
+  width: 310px;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 5px;
+  border: 1px solid #D3D3D3;
+  border-top: 0;
+  height: 150px;
+  overflow: auto;
+}
+#choose_company #company_search_res li {
+  font-size: 0.8em;
+  margin-bottom: 2px;
+  cursor: pointer;
+  padding: 2px;
+  border-bottom: 1px solid #F3F3F3;
+  margin: 0 3px;
+}
+#choose_company #company_search_res li:hover {
+  background-color: #F3F3F3;
+}
+#choose_company .add_company {
+  display: none;
+}
+#quick-login-dialog {
+  font-family: helvetica, arial, sans-serif;
+  height: 100%;
+  overflow: auto;
+  font-size: 12px;
+}
+#quick-login-dialog table {
+  font-size: 12px;
+}
+#quick-login-dialog #sfsLoginAreaBt {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 9px;
+  margin: 0em;
+  padding: 2px .8em;
+  white-space: nowrap;
+  background-image: url(/portals/hrcom/logo_images/bt_login.gif);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  height: 22px;
+  width: 68px;
+  font-size: 0px;
+}
+#quick-login-dialog .left {
+  float: left;
+}
+#quick-login-dialog .title {
+  color: #666666;
+  font-family: Myriad Pro, Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  line-height: 120%;
+  margin-bottom: 10px;
+}
+#quick-login-dialog .title .highlight {
+  color: #be1e2d;
+}
+#quick-login-dialog a,
+#quick-login-dialog .clickable {
+  cursor: pointer;
+  color: #827572;
+  text-decoration: underline;
+}
+#quick-login-dialog a:hover,
+#quick-login-dialog .clickable:hover {
+  text-decoration: none;
+}
+#quick-login-dialog a:hover img,
+#quick-login-dialog .clickable:hover img {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  /* For Webkit browsers */
+  filter: gray;
+  /* For IE 6 - 9 */
+  -webkit-transition: all .6s ease;
+  /* Fade to color for Chrome and Safari */
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+  /* Firefox 10+, Firefox on Android */
+}
+#quick-login-dialog a.disabled,
+#quick-login-dialog .clickable.disabled {
+  text-decoration: none;
+  cursor: default;
+}
+#quick-login-dialog div.action {
+  margin-top: 5px;
+}
+#quick-login-dialog .standard-form div.error,
+#quick-login-dialog .standard-form div.info {
+  font-size: 0.8em;
+  color: #E1E1E1;
+  font-weight: bold;
+  border-radius: 5px 5px 5px 5px;
+  padding: 6px;
+  text-align: center;
+  clear: left;
+  margin-bottom: 5px;
+}
+#quick-login-dialog .standard-form div.error a,
+#quick-login-dialog .standard-form div.info a,
+#quick-login-dialog .standard-form div.error .clickable,
+#quick-login-dialog .standard-form div.info .clickable {
+  color: #E1E1E1;
+}
+#quick-login-dialog .standard-form div.error.input,
+#quick-login-dialog .standard-form div.info.input {
+  border-radius: 0 0 5px 5px;
+  margin-left: 135px;
+  width: 200px;
+}
+#quick-login-dialog .standard-form div.info {
+  background-color: #0B580B;
+}
+#quick-login-dialog .standard-form div.error {
+  background-color: #be1e2d;
+}
+#quick-login-dialog .horizontal-form {
+  *zoom: 1;
+}
+#quick-login-dialog .horizontal-form div.error,
+#quick-login-dialog .horizontal-form div.info {
+  font-size: 0.8em;
+  color: #E1E1E1;
+  font-weight: bold;
+  border-radius: 5px 5px 5px 5px;
+  padding: 6px;
+  text-align: center;
+  clear: left;
+  margin-bottom: 5px;
+}
+#quick-login-dialog .horizontal-form div.error a,
+#quick-login-dialog .horizontal-form div.info a,
+#quick-login-dialog .horizontal-form div.error .clickable,
+#quick-login-dialog .horizontal-form div.info .clickable {
+  color: #E1E1E1;
+}
+#quick-login-dialog .horizontal-form div.error.input,
+#quick-login-dialog .horizontal-form div.info.input {
+  border-radius: 0 0 5px 5px;
+  margin-left: 135px;
+  width: 200px;
+}
+#quick-login-dialog .horizontal-form div.info {
+  background-color: #0B580B;
+}
+#quick-login-dialog .horizontal-form div.error {
+  background-color: #be1e2d;
+}
+#quick-login-dialog .horizontal-form:before,
+#quick-login-dialog .horizontal-form:after {
+  display: table;
+  content: "";
+}
+#quick-login-dialog .horizontal-form:after {
+  clear: both;
+}
+#quick-login-dialog .horizontal-form div.lbl {
+  float: left;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-right: 10px;
+  text-align: right;
+  width: 125px;
+  color: #666666;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+#quick-login-dialog .horizontal-form label {
+  height: 30px;
+}
+#quick-login-dialog .horizontal-form label input[type="text"],
+#quick-login-dialog .horizontal-form label input[type="password"],
+#quick-login-dialog .horizontal-form label input[type="email"],
+#quick-login-dialog .horizontal-form label select {
+  border: 1px solid #D3D3D3;
+  padding: 5px;
+  width: 200px;
+}
+#quick-login-dialog .horizontal-form label select {
+  width: 212px;
+}
+#quick-login-dialog .horizontal-form div.error.input,
+#quick-login-dialog .horizontal-form div.info.input {
+  border-radius: 0 0 5px 5px;
+  margin-left: 135px;
+  width: 200px;
+}
+#quick-login-dialog .horizontal-form .input {
+  margin-left: 135px;
+}
+#quick-login-dialog .horizontal-form .HRCategories ul li label {
+  display: inline;
+}
+#quick-login-dialog .horizontal-form .category_list label {
+  height: auto;
+}
+#quick-login-dialog .profile .area,
+#quick-login-dialog .profile .loading {
+  display: none;
+}
+#quick-login-dialog .profile .area .nextAction,
+#quick-login-dialog .profile .loading .nextAction {
+  cursor: pointer;
+}
+#quick-login-dialog .profile .loading {
+  width: 100%;
+  height: 100%;
+}
+#quick-login-dialog .profile .active {
+  display: block;
+}
